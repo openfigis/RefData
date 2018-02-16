@@ -1,0 +1,7 @@
+"Code","Symbol","Name","Description"
+"1",".","UNKNOWN","Data not available; unobtainable; data not separately available but included in another category"
+"2","0","NEGLIGIBLE","More than zero but less than half the unit used"
+"3","-","ZERO","None; magnitude known to be nil or zero"
+"4","F","ESTIMATED","FAO estimate from available sources of information or calculation based on specific assumptions"
+"5","R","REPETITION","Repetition"
+"6"," ","OFFICIAL","Official Data"

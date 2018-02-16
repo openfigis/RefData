@@ -1,28 +1,26 @@
-This is the FAO Fishery Reference Data repository.
 
-
-file naming:
--------------
+Dataset name definiion:
 TS_*  "time-series": corresponds to the contents of the FAO database and structure according to a series of codes (CL);
 CL_*  "code-lists": contains the identifier and mapping to other codes and descriptions; 
-HCL_*  "hierarchical code-lists": contains the grouping information, a pointer (foreign key) from the reference object (parent) to the children
 DSD_* "Data Structure Definition": describes how information in a specific dataset is structured. 
        It defines the dimensions, measures and their related attributes. 
 
-file encoding:
--------------
+
 Character enconding system in CSV files
 All information contents in the files in CSV (comma-separated values) format are made available in UTF-8. 
 To open these files in Excel, go to the menu
 Data->From Text and select File origin "65001: Unicode UTF-8" and comma delimiter
 
-Note: When using time-series data, in order to obtain the aggregates presented in the 
+
+NB: When viewing time-series data in FISHSTAT, in order to obtain the aggregates presented in the 
 Summary Tables of the "FAO Yearbook of Fishery Statistics - Aquaculture Production" which exclude production figures 
 for aquatic plants, pearls and mother-of-pearl, data should be filtered using a Custom Group:
-"Fish, crustaceans and molluscs, etc."(1801).
+"Fish, crustaceans and molluscs, etc."(1801). 
+The species of this group are shown in CL_FI_SPECIES_GROUPS.csv file in the column Yearbook_Group.
+
 
 COPYRIGHT & DISCLAIMER CLAUSES
----------------------
+
 FAO encourages the use, reproduction and dissemination of material in this information product. Except where otherwise indicated, material may be copied, downloaded and printed for private study, research and teaching purposes, or for use in non-commercial products or services, provided that appropriate acknowledgement of FAO as the source and copyright holder is given and that FAO’s endorsement of users’ views, products or services is not implied in any way.
 All requests for translation and adaptation rights, and for resale and other commercial use rights should be made via www.fao.org/contact-us/licence-request or addressed to copyright@fao.org.
 
