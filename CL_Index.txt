@@ -1,0 +1,96 @@
+
+File-names:
+===========
+ReadMe.md       the general overview
+CL_Index.txt    (this file) The index of code-lists
+CL_History.txt  describing the version history
+
+code-list file-naming convention:
+CL*.csv         Individual code-lists
+HCL*.csv        Hierarchical code-lists (parent->child grouping)
+CL_*GROUP.csv   A user-friendly summary
+
+FAO code-lists:
+===============
+commodity\CL_FI_COMMODITY_ISSCFC.csv                  ISSCFC (International Standard Statistical Classification of Fisheries Commodities)
+
+country\CL_FI_COUNTRY_CONTINENT.csv                   Continents
+country\CL_FI_COUNTRY_ECOCLASS.csv                    Economic Classes
+country\CL_FI_COUNTRY_ECOGROUP.csv                    Economic Groups 
+country\CL_FI_COUNTRY_ECOREGION.csv                   Economic Regions 
+country\CL_FI_COUNTRY_ECOUNION.csv                    Economic Unions 
+country\CL_FI_COUNTRY_FAO.csv                         FAO offices
+country\CL_FI_COUNTRY_FORMERAREA.csv                  Former countries
+country\CL_FI_COUNTRY_GEOREGION.csv                   Geographic Regions
+country\CL_FI_COUNTRY_GROUPS.csv                      Country summary
+country\CL_FI_COUNTRY_ITEM.csv                        Country items
+country\CL_FI_COUNTRY_OTHER.csv                       Other (country related) groups
+country\CL_FI_COUNTRY_SDGREGION.csv                   SDG (Sustainable Development Goals) Subregions 
+country\CL_FI_COUNTRY_SDGSUBREGION.csv                SDG (Sustainable Development Goals) Subcontinents
+country\CL_FI_COUNTRY_SUBCONTINENT.csv                Sub-Continent groups
+country\CL_FI_RFB.csv                                 Regional Fishery Bodies (RFB)
+country\HCL_FI_COUNTRY_CONTINENT_GEOREGION.csv        hierarchy COUNTRY_CONTINENT->COUNTRY_GEOREGION
+country\HCL_FI_COUNTRY_ECOCLASS_COUNTRY.csv           hierarchy COUNTRY_ECOCLASS->COUNTRY_ITEM
+country\HCL_FI_COUNTRY_ECOGROUP_COUNTRY.csv           hierarchy COUNTRY_ECOGROUP->COUNTRY_ITEM
+country\HCL_FI_COUNTRY_ECOREGION_COUNTRY.csv          hierarchy COUNTRY_ECOREGION->COUNTRY_ITEM
+country\HCL_FI_COUNTRY_ECOUNION_COUNTRY.csv           hierarchy COUNTRY_ECOUNION->COUNTRY_ITEM
+country\HCL_FI_COUNTRY_FAO_COUNTRY.csv                hierarchy COUNTRY_FAO->COUNTRY_ITEM
+country\HCL_FI_COUNTRY_FORMER_COUNTRY.csv             hierarchy COUNTRY_FORMERAREA->COUNTRY_ITEM
+country\HCL_FI_COUNTRY_GEOREGION_COUNTRY.csv          hierarchy COUNTRY_GEOREGION->COUNTRY_ITEM
+country\HCL_FI_COUNTRY_OTHER_COUNTRY.csv              hierarchy COUNTRY_OTHER->COUNTRY_ITEM
+country\HCL_FI_COUNTRY_SDGREGION_SDGSUBREGION.csv     hierarchy COUNTRY_SDGREGION->COUNTRY_SDGSUBREGION
+country\HCL_FI_COUNTRY_SDGSUBREGION_COUNTRY.csv       hierarchy COUNTRY_SDGSUBREGION->COUNTRY_ITEM
+country\HCL_FI_COUNTRY_SUBCONTINENT_COUNTRY.csv       hierarchy COUNTRY_SUBCONTINENT->COUNTRY_ITEM      
+country\HCL_FI_RFB_RFB_COUNTRY.csv                    hierarchy CL_FI_RFB->CL_FI_COUNTRY_ITEM
+
+gear\CL_FI_GEAR_FACTSHEET.csv     Gears where FAO factsheets exist; not part of ISSCFG
+gear\CL_FI_GEAR_GROUPS.csv        Gear summary
+gear\CL_FI_GEAR_LEVEL1.csv        ISSCFG gear level1 (International Standard Statistical Classification of Fisheries Gears)
+gear\CL_FI_GEAR_LEVEL2.csv        ISSCFG gear level2 (International Standard Statistical Classification of Fisheries Gears)
+gear\HCL_FI_GEARL1_GEARL2.csv     hierarchy ISSCFG gear level1->level2
+gear\HCL_FI_GEARL2_FACTL3.csv     hierarchy Gear level2->Factsheet
+
+misc\CL_FI_CURRENCY.csv           Currencies used by FAO
+misc\CL_FI_ENVIRONMNET.csv        Aquaculture environments
+misc\CL_FI_PRODUCTION_SOURCE.csv  Production Source (for Global Production dataset)
+misc\CL_FI_SYMBOL.csv             FAO Statistical Symbols (Flags)
+misc\CL_FI_UNIT.csv               FAO Statistical Units
+
+species\CL_FI_SPECIES_FAMILY.csv                   ASFIS (taxonomic) families
+species\CL_FI_SPECIES_FAOSTAT.csv                  FAOSTAT species groups
+species\CL_FI_SPECIES_GROUPS.csv                   Species summary
+species\CL_FI_SPECIES_ISSCAAP_DIVISION.csv         ISSCAAP divisions 
+species\CL_FI_SPECIES_ISSCAAP_GROUP.csv            ISSCAAP groups
+species\CL_FI_SPECIES_ITEM.csv                     ASFIS (Aquatic Sciences and Fisheries Information System) species 
+species\CL_FI_SPECIES_MAJOR.csv                    ASFIS (taxonomic) major groups
+species\CL_FI_SPECIES_ORDER.csv                    ASFIS (taxonomic) orders
+species\CL_FI_SPECIES_YEARBOOK.csv                 FAO statistical yearbook species groups
+species\HCL_FI_SPECIES_FAMILY_ITEM.csv             hierarchy SPECIES_FAMILY->SPECIES_ITEM
+species\HCL_FI_SPECIES_FAOSTAT_ISSCAAPGRP.csv      hierarchy SPECIES_FAOSTAT->SPECIES_ISSCAAP_GROUP
+species\HCL_FI_SPECIES_ISSCAAPDIV_ISSCAAPGRP.csv   hierarchy SPECIES_ISSCAAP_DIVISION->SPECIES_ISSCAAP_GROUP
+species\HCL_FI_SPECIES_ISSCAAPGRP_ITEM.csv         hierarchy SPECIES_ISSCAAP_GROUP->SPECIES_ITEM
+species\HCL_FI_SPECIES_MAJOR_ORDER.csv             hierarchy SPECIES_MAJOR->SPECIES_ORDER
+species\HCL_FI_SPECIES_ORDER_FAMILY.csv            hierarchy SPECIES_ORDER->SPECIES_FAMILY
+species\HCL_FI_SPECIES_ORDER_ITEM.csv              hierarchy SPECIES_ORDER->SPECIES_ITEM
+species\HCL_FI_SPECIES_YEARBOK_ISSCAAPGRP.csv      hierarchy SPECIES_YEARBOOK->SPECIES_ISSCAAP_GROUP
+
+waterarea\CL_FI_WATERAREA_DIVISION.csv               CWP Divisions
+waterarea\CL_FI_WATERAREA_GROUPS.csv                 Waterarea summary  
+waterarea\CL_FI_WATERAREA_INLANDMARINE.csv           Inland/Marine Areas (top level)
+waterarea\CL_FI_WATERAREA_MAJOR.csv                  CWP Major Areas
+waterarea\CL_FI_WATERAREA_OCEAN.csv                  Oceans
+waterarea\CL_FI_WATERAREA_REGION.csv                 Fishing Regions
+waterarea\CL_FI_WATERAREA_SUBAREA.csv                CWP Subareas
+waterarea\CL_FI_WATERAREA_SUBDIVISION.csv            CWP Subdivisions
+waterarea\CL_FI_WATERAREA_SUBOCEAN.csv               Suboceans
+waterarea\CL_FI_WATERAREA_SUBUNIT.csv                CWP Subunits
+waterarea\HCL_FI_WATERAREA_DIVISION_SUBDIVISION.csv  hierarchy DIVISION->SUBDIVISION
+waterarea\HCL_FI_WATERAREA_INLANDMARINE_MAJOR.csv    hierarchy INLANDMARINE->MAJOR
+waterarea\HCL_FI_WATERAREA_INLANDMARINE_OCEAN.csv    hierarchy INLANDMARINE->OCEAN
+waterarea\HCL_FI_WATERAREA_MAJOR_SUBAREA.csv         hierarchy MAJOR->SUBAREA
+waterarea\HCL_FI_WATERAREA_OCEAN_MAJOR.csv           hierarchy OCEAN->MAJOR
+waterarea\HCL_FI_WATERAREA_REGION_MAJOR.csv          hierarchy REGION->MAJOR
+waterarea\HCL_FI_WATERAREA_SUBAREA_DIVISION.csv      hierarchy SUBAREA->DIVISION
+waterarea\HCL_FI_WATERAREA_SUBDIVISION_SUBUNIT.csv   hierarchy SUBDIVISION->SUBUNIT
+waterarea\HCL_FI_WATERAREA_SUBOCEAN_MAJOR.csv        hierarchy SUBOCEAN->MAJOR
+*

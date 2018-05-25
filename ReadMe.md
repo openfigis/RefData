@@ -1,13 +1,12 @@
-This is the FAO Fishery Reference Data repository.
+This is the FAO Fishery and Aquaculture Reference Data repository.
 
 
 file naming:
 -------------
-TS_*  "time-series": corresponds to the contents of the FAO database and structure according to a series of codes (CL);
-CL_*  "code-lists": contains the identifier and mapping to other codes and descriptions; 
-HCL_*  "hierarchical code-lists": contains the grouping information, a pointer (foreign key) from the reference object (parent) to the children
-DSD_* "Data Structure Definition": describes how information in a specific dataset is structured. 
-       It defines the dimensions, measures and their related attributes. 
+-TS_*  "time-series": corresponds to the contents of the FAO database and structure according to a series of codes (CL);
+-CL_*  "code-lists": contains the identifier and mapping to other codes and descriptions; 
+-HCL_*  "hierarchical code-lists": contains the grouping information, a pointer (foreign key) from the reference object (parent) to the children
+-DSD_* "Data Structure Definition": describes how information in a specific dataset is structured. It defines the dimensions, measures and their related attributes. 
 
 file encoding:
 -------------
@@ -35,4 +34,4 @@ The designations employed and the presentation of material in the map(s) do not 
 For comments, views and suggestions relating to this data, please email to:
 Email: Fish-Statistics-Inquiries@fao.org
 
-© FAO 2018
+(c) FAO 2018

@@ -1,4 +1,4 @@
-"FIGIS_ID","FAOSTAT_ID","NAME_en","NAME_fr","NAME_es","NAME_ar","NAME_cn","NAME_ru","Unit"
+"Identifier","Faostat_ID","Name_En","Name_Fr","Name_Es","Name_Ar","Name_Cn","Name_Ru","Unit"
 "1601","1501","Freshwater and Diadromous Fish","Poissons d'eau douce et diadromes","Peces de agua dulce y diádromos","","","","t"
 "1614","1514","Demersal Marine Fish","Poissons démersaux","Peces demersales","","","","t"
 "1627","1527","Pelagic Marine Fish","Poissons pélagiques","Peces pelágicos","","","","t"

@@ -1,0 +1,18 @@
+CL_History.txt
+
+This file dcouments the history (version number/date):
+
+FAO code-list history:
+2017.0.1  15-Dec-2017  first internal release
+2018.0.1  22-Jan-2018  removed incorrect 3alfa-code from ISSCAPP_GROUP
+2018.1.0  23-Mar-2018  updated codelists
+2018.1.1  25-May-2018  updated codelists
+
+FAO time-series history:
+2017.1.1  20-Apr-2017  Aquaculture/Catch/GlobalProuction: changed Code column of CL_FI_AREA_GROUPS to area code
+2017.1.0  13-Mar-2017  release of 2017 data
+2018.1.0  23-Mar-2018  Aquaculture/Catch/GlobalProuction release
+2018.1.1  23-Apr-2018  corrected Aquaculture value
+2018.1.2  24-May-2018  Aquaculture: added Unit, renamed Environment to Production_Source
+2018.1.2  25-May-2018  Production: added Unit
+                       
