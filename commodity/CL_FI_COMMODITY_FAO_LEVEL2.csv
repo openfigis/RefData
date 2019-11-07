@@ -1,0 +1,16 @@
+FAO_Code,Identifier,Name_En,Name_Es,Name_Fr
+1.001,50002,"Fish, live","Peces, vivos","Poissons, vivants"
+1.004,50005,"Fish, fresh or chilled, excluding fillets and meat","Pescado fresco o refrigerado, excepto los filetes y  demás carne de pescado","Poissons frais our réfrigérés, à l'exception des filets et autre chair de poissons"
+1.006,50014,"Fish, frozen, excluding fillets and meat","Pescado congelado, excepto los filetes y  demás carne de pescado","Poissons congelés, à l'exception des filets et autre chair de poissons"
+1.014,50023,"Fish meat, whether or not minced, and fillets, fresh or chilled","Carne de pescado, incluso picada, y filetes, frescos o refrigerados","Chair de poisson, même hachée, et filets frais ou réfrigérés"
+1.016,50031,"Fish fillets, frozen","Pescado en filetes, congelado","Filets de poisson, congelés"
+1.026,50039,"Fish meat, whether or not minced, frozen","Carne de pescado, incluso picada, congelada","Chair de poisson, même hachée, congelée"
+1.029,50047,"Fish, dried, salted or smoked","Pescado seco, salado o ahumado","Poissons séchés, salés ou fumés"
+1.039,50056,Fish prepared or preserved,Preparaciones y conservas de pescado,Préparations et conserves de poisson
+2.006,50065,"Crustaceans, frozen","Crustáceos, congelados","Crustacés, congelés"
+2.021,50072,"Crustaceans, not frozen","Crustáceos, sin congelar","Crustacés, non congelés"
+2.039,50079,"Crustaceans, prepared or preserved","Crustáceos, preparados o en conserva","Crustacés, preparés ou conservés"
+5.005,50087,"Molluscs and other aquatic invertebrates, live, fresh or chilled","Moluscos y otros invertebratos acuáticos, vivos, frescos o congelados","Mollusques et autres invertébrés aquatiques, vivants, frais ou refrigérés"
+5.020,50096,"Molluscs and other aquatic invertebrates, other than live, fresh or chilled","Moluscos y otros invertebratos acuáticos, excepto vivos, frescos o congelados","Mollusques et autres invertébrés aquatiques, autres que vivants, frais ou refrigérés"
+5.039,50105,"Molluscs and other aquatic invertebrates, prepared or preserved","Moluscos y otros invertebratos acuáticos, preparados o en conserva","Mollusques et autres invertébrés aquatiques, preparés ou conservés"
+7.099,50115,Other products,Otros productos,Autres produits
