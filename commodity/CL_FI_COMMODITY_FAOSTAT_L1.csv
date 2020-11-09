@@ -1,11 +1,11 @@
-FAOSTAT_Code,Identifier,Name_En,Name_Es,Name_Fr
-10,72001,Freshwater & diadromous fish,Peces de agua dulce et diádromos,Poissons d'eau douce et diadromes
-20,72015,Demersal fish,Peces demersales,Poissons démersaux
-30,72029,Pelagic fish,Peces pelágicos,Poissons pélagiques
-40,72043,Marine fish nei,Peces marinos nep,Poissons marins nca
-50,72057,Crustaceans,Crustáceos,Crustacés
-60,72067,Molluscs excl. cephalopods,Moluscos sin cefalópodos,Mollusques excl. cephalopodes
-70,72076,Cephalopods,Cefalópodos,Cephalopodes
-80,72086,Aquatic mammals,Mamíferos acuáticos,Mammifères aquatiques
-90,72095,Aquatic animals nei,Aninales acuáticos nep,Animales aquatiques nca
-99,72103,Aquatic plants,Plantas acuáticas,Plantes aquatiques
+"FAOSTAT_Code","Identifier","Name_En","Name_Es","Name_Fr"
+"10","72001","Freshwater & diadromous fish","Peces de agua dulce et diádromos","Poissons d'eau douce et diadromes"
+"20","72015","Demersal fish","Peces demersales","Poissons démersaux"
+"30","72029","Pelagic fish","Peces pelágicos","Poissons pélagiques"
+"40","72043","Marine fish nei","Peces marinos nep","Poissons marins nca"
+"50","72057","Crustaceans","Crustáceos","Crustacés"
+"60","72067","Molluscs excl. cephalopods","Moluscos sin cefalópodos","Mollusques excl. cephalopodes"
+"70","72076","Cephalopods","Cefalópodos","Cephalopodes"
+"80","72086","Aquatic mammals","Mamíferos acuáticos","Mammifères aquatiques"
+"90","72095","Aquatic animals nei","Aninales acuáticos nep","Animales aquatiques nca"
+"99","72103","Aquatic plants","Plantas acuáticas","Plantes aquatiques"

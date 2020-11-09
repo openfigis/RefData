@@ -11,6 +11,9 @@ file naming:
 
 -DSD_* "Data Structure Definition": describes how information in a specific dataset is structured. It defines the dimensions, measures and their related attributes. 
 
+In this release the colum names have changed slightly; and columns are ordered alphabetically. The change was required, as we migrated from the legacy FIGIS/RTMS to the corporate MDM system. 
+We do apologise for any inconvenience caused.
+
 file encoding:
 -------------
 Character enconding system in CSV files
@@ -37,4 +40,4 @@ The designations employed and the presentation of material in the map(s) do not 
 For comments, views and suggestions relating to this data, please email to:
 Email: Fish-Statistics-Inquiries@fao.org
 
-(c) FAO 2018
+(c) FAO 2020

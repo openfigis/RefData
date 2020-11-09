@@ -1,4 +1,4 @@
-"Identifier","Code","Name_En","Name_Fr","Name_Es"
-"240","65","Northern regions","Régions septentrionales","Regiones del Norte"
-"241","70","Central regions","Régions centrales","Regiones centrales"
-"242","75","Southern regions","Régions méridionales","Regiones del Sur"
+"Code","Identifier","Name_En","Name_Es","Name_Fr"
+"65","240","Northern regions","Regiones del Norte","Régions septentrionales"
+"70","241","Central regions","Regiones centrales","Régions centrales"
+"75","242","Southern regions","Regiones del Sur","Régions méridionales"

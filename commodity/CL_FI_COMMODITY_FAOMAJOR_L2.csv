@@ -1,11 +1,11 @@
-FAO_Major_Code,Identifier,Name_En,Name_Es,Name_Fr
-1,40002,"Fish, fresh, chilled or frozen","Pescado fresco, refrigerado o congelado","Poissons frais, réfrigérés ou congelés"
-2,40003,"Fish, dried, salted, or smoked","Pescado seco, salado o ahumado","Poissons séchés, salés ou fumés"
-3,40004,"Crustaceans & Molluscs, live, fresh, chilled, etc.","Crustáceos y moluscos, vivos, frescos, refrigerados, etc.","Crustacés et mollusques, vivants, frais, réfrigérés, etc."
-4,40005,"Fish, prepared or preserved",Preparaciones y conservas de pescado,Préparations et conserves de poisson
-5,40006,"Crustaceans and molluscs, prepared or preserved",Preparaciones y conservas de crustáceos y moluscos,Préparations et conserves de custacés et mollusques
-6,40007,Oils,Aceites,Huiles
-7,40008,Meals,Harinas,Farines
-9,40010,Aquatic plants,Plantas acuáticas,Plantes aquatiques
-8,40012,"Sponges, corals, shells","Esponjas, coral, conchas","Éponges, coral, coquillage"
-A,40013,Inedible,Incomestible,Non comestible
+"FAO_Major_Code","Identifier","Name_En","Name_Es","Name_Fr"
+"1","40002","Fish, fresh, chilled or frozen","Pescado fresco, refrigerado o congelado","Poissons frais, réfrigérés ou congelés"
+"2","40003","Fish, dried, salted, or smoked","Pescado seco, salado o ahumado","Poissons séchés, salés ou fumés"
+"3","40004","Crustaceans & Molluscs, live, fresh, chilled, etc.","Crustáceos y moluscos, vivos, frescos, refrigerados, etc.","Crustacés et mollusques, vivants, frais, réfrigérés, etc."
+"4","40005","Fish, prepared or preserved","Preparaciones y conservas de pescado","Préparations et conserves de poisson"
+"5","40006","Crustaceans and molluscs, prepared or preserved","Preparaciones y conservas de crustáceos y moluscos","Préparations et conserves de custacés et mollusques"
+"6","40007","Oils","Aceites","Huiles"
+"7","40008","Meals","Harinas","Farines"
+"9","40010","Aquatic plants","Plantas acuáticas","Plantes aquatiques"
+"8","40012","Sponges, corals, shells","Esponjas, coral, conchas","Éponges, coral, coquillage"
+"A","40013","Inedible","Incomestible","Non comestible"

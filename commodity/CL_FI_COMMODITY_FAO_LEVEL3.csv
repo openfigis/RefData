@@ -1,104 +1,104 @@
-FAO_Code,Identifier,Name_En,Name_Es,Name_Fr
-1.001.01,50003,Fish for ornamental and culture purposes,Péces ornamentales y para cultivo,Poissons d'ornement et pour l'élevage
-1.001.09,50004,Other,Otros,Autres
-1.004.10,50006,Freshwater fish,Peces de agua dulce,Poissons d'eau douce
-1.004.20,50007,Diadromous fish,Peces diádromos,Poissons diadromes
-1.004.31,50008,"Flounders, halibuts, soles","Platijas, halibuts, lenguados","Flets, flétans, soles"
-1.004.32,50009,"Cod, hakes, haddocks","Bacalaos, merluzas, eglefinos","Morues, merlus, églefins"
-1.004.36,50010,"Tunas, bonitos, billfishes","Atunes, bonitos, agujas","Thons, pélamides, marlins"
-1.004.37,50011,Other pelagics,Otros peces pelágicos,Autres poissons pélagiques
-1.004.39,50012,Other fish,Otro pescado,Autres poissons
-1.004.99,50013,Miscellaneous fish products,Productos de pescado diversos,Produits divers de poisson
-1.006.10,50015,Freshwater fish,Peces de agua dulce,Poissons d'eau douce
-1.006.20,50016,Diadromous fish,Peces diádromos,Poissons diadromes
-1.006.31,50017,"Flounders, halibuts, soles","Platijas, halibuts, lenguados","Flets, flétans, soles"
-1.006.32,50018,"Cod, hakes, haddocks","Bacalaos, merluzas, eglefinos","Morues, merlus, églefins"
-1.006.36,50019,"Tunas, bonitos, billfishes","Atunes, bonitos, agujas","Thons, pélamides, marlins"
-1.006.37,50020,Other pelagics,Otros peces pelágicos,Autres poissons pélagiques
-1.006.39,50021,Other fish,Otro pescado,Autres poissons
-1.006.99,50022,Miscellaneous fish products,Productos de pescado diversos,Produits divers de poisson
-1.014.10,50024,Freshwater fish,Peces de agua dulce,Poissons d'eau douce
-1.014.20,50025,Diadromous fish,Peces diádromos,Poissons diadromes
-1.014.31,50026,"Flounders, halibuts, soles","Platijas, halibuts, lenguados","Flets, flétans, soles"
-1.014.32,50027,"Cod, hakes, haddocks","Bacalaos, merluzas, eglefinos","Morues, merlus, églefins"
-1.014.36,50028,"Tunas, bonitos, billfishes","Atunes, bonitos, agujas","Thons, pélamides, marlins"
-1.014.37,50029,Other pelagics,Otros peces pelágicos,Autres poissons pélagiques
-1.014.39,50030,Other fish,Otro pescado,Autres poissons
-1.016.10,50032,Freshwater fish,Peces de agua dulce,Poissons d'eau douce
-1.016.20,50033,Diadromous fish,Peces diádromos,Poissons diadromes
-1.016.31,50034,"Flounders, halibuts, soles","Platijas, halibuts, lenguados","Flets, flétans, soles"
-1.016.32,50035,"Cod, hakes, haddocks","Bacalaos, merluzas, eglefinos","Morues, merlus, églefins"
-1.016.36,50036,"Tunas, bonitos, billfishes","Atunes, bonitos, agujas","Thons, pélamides, marlins"
-1.016.37,50037,Other pelagics,Otros peces pelágicos,Autres poissons pélagiques
-1.016.39,50038,Other fish,Otro pescado,Autres poissons
-1.026.10,50040,Freshwater fish,Peces de agua dulce,Poissons d'eau douce
-1.026.20,50041,Diadromous fish,Peces diádromos,Poissons diadromes
-1.026.31,50042,"Flounders, halibuts, soles","Platijas, halibuts, lenguados","Flets, flétans, soles"
-1.026.32,50043,"Cod, hakes, haddocks","Bacalaos, merluzas, eglefinos","Morues, merlus, églefins"
-1.026.36,50044,"Tunas, bonitos, billfishes","Atunes, bonitos, agujas","Thons, pélamides, marlins"
-1.026.37,50045,Other pelagics,Otros peces pelágicos,Autres poissons pélagiques
-1.026.39,50046,Other fish,Otro pescado,Autres poissons
-1.029.10,50048,Freshwater fish,Peces de agua dulce,Poissons d'eau douce
-1.029.20,50049,Diadromous fish,Peces diádromos,Poissons diadromes
-1.029.31,50050,"Flounders, halibuts, soles","Platijas, halibuts, lenguados","Flets, flétans, soles"
-1.029.32,50051,"Cod, hakes, haddocks","Bacalaos, merluzas, eglefinos","Morues, merlus, églefins"
-1.029.36,50052,"Tunas, bonitos, billfishes","Atunes, bonitos, agujas","Thons, pélamides, marlins"
-1.029.37,50053,Other pelagics,Otros peces pelágicos,Autres poissons pélagiques
-1.029.39,50054,Other fish,Otro pescado,Autres poissons
-1.029.99,50055,Miscellaneous fish products,Productos de pescado diversos,Produits divers de poisson
-1.039.10,50057,Freshwater fish,Peces de agua dulce,Poissons d'eau douce
-1.039.20,50058,Diadromous fish,Peces diádromos,Poissons diadromes
-1.039.32,50059,"Cod, hakes, haddocks","Bacalaos, merluzas, eglefinos","Morues, merlus, églefins"
-1.039.36,50060,"Tunas, bonitos, billfishes","Atunes, bonitos, agujas","Thons, pélamides, marlins"
-1.039.37,50061,Other pelagics,Otros peces pelágicos,Autres poissons pélagiques
-1.039.39,50062,Other fish,Otro pescado,Autres poissons
-1.039.99,50063,Miscellaneous fish products,Productos de pescado diversos,Produits divers de poisson
-2.006.41,50066,Freshwater crustaceans,Crustáceos de agua dulce,Crustacés d'eau douce
-2.006.42,50067,"Crabs, sea-spiders","Cangrejos, centollas","Crabes, araign;ees de mer"
-2.006.43,50068,"Lobsters, spiny-rock lobsters","Bogavantes, langostas","Homards, langoustes"
-2.006.44,50069,"King crabs, squat-lobsters","Cangrejos reales, galeteidos","Crabes royaux, galatées"
-2.006.45,50070,"Shrimps, prawns","Gambas, camarones",Crevettes
-2.006.47,50071,Miscellaneous marine crustaceans,Crustáceos marinos diversos,Crustacés marins divers
-2.021.41,50073,Freshwater crustaceans,Crustáceos de agua dulce,Crustacés d'eau douce
-2.021.42,50074,"Crabs, sea-spiders","Cangrejos, centollas","Crabes, araign;ees de mer"
-2.021.43,50075,"Lobsters, spiny-rock lobsters","Bogavantes, langostas","Homards, langoustes"
-2.021.44,50076,"King crabs, squat-lobsters","Cangrejos reales, galeteidos","Crabes royaux, galatées"
-2.021.45,50077,"Shrimps, prawns","Gambas, camarones",Crevettes
-2.021.47,50078,Miscellaneous marine crustaceans,Crustáceos marinos diversos,Crustacés marins divers
-2.039.41,50080,Freshwater crustaceans,Crustáceos de agua dulce,Crustacés d'eau douce
-2.039.42,50081,"Crabs, sea-spiders","Cangrejos, centollas","Crabes, araign;ees de mer"
-2.039.43,50082,"Lobsters, spiny-rock lobsters","Bogavantes, langostas","Homards, langoustes"
-2.039.44,50083,"King crabs, squat-lobsters","Cangrejos reales, galeteidos","Crabes royaux, galatées"
-2.039.45,50084,"Shrimps, prawns","Gambas, camarones",Crevettes
-2.039.47,50085,Miscellaneous marine crustaceans,Crustáceos marinos diversos,Crustacés marins divers
-5.005.52,50088,"Abalones, winkles, conchs","Orejas de mar, bígaros, estrombos","Ormeaux, bigorneaux, strombes"
-5.005.53,50089,Oysters,Ostras,Huîtres
-5.005.54,50090,Mussels,Mejillones,Moules
-5.005.55,50091,"Scallops, pectens",Vieiras,Coquilles St. Jacques
-5.005.56,50092,"Clams, cockles, arkshells","Almejas, berberechos, arcas","Clams, coques, arches"
-5.005.57,50093,"Squids, cuttlefishes, octopuses","Calamares, jibias, polpos","Encornets, seiches, poulpes"
-5.005.76,50094,Sea-urchins and other echinoderms,Erizos de mar y otros equinodermos,Oursins et autres échinodermes
-5.005.77,50095,Miscellaneous molluscs and aquatic invertebrates,Moluscos y otros invertebratos acuáticos,Mollusques et autres invertébrés aquatiques
-5.020.52,50097,"Abalones, winkles, conchs","Orejas de mar, bígaros, estrombos","Ormeaux, bigorneaux, strombes"
-5.020.53,50098,Oysters,Ostras,Huîtres
-5.020.54,50099,Mussels,Mejillones,Moules
-5.020.55,50100,"Scallops, pectens",Vieiras,Coquilles St. Jacques
-5.020.56,50101,"Clams, cockles, arkshells","Almejas, berberechos, arcas","Clams, coques, arches"
-5.020.57,50102,"Squids, cuttlefishes, octopuses","Calamares, jibias, polpos","Encornets, seiches, poulpes"
-5.020.76,50103,Sea-urchins and other echinoderms,Erizos de mar y otros equinodermos,Oursins et autres échinodermes
-5.020.77,50104,Miscellaneous molluscs and aquatic invertebrates,Moluscos y otros invertebratos acuáticos,Mollusques et autres invertébrés aquatiques
-5.039.52,50106,"Abalones, winkles, conchs","Orejas de mar, bígaros, estrombos","Ormeaux, bigorneaux, strombes"
-5.039.53,50107,Oysters,Ostras,Huîtres
-5.039.54,50108,Mussels,Mejillones,Moules
-5.039.55,50109,"Scallops, pectens",Vieiras,Coquilles St. Jacques
-5.039.56,50110,"Clams, cockles, arkshells","Almejas, berberechos, arcas","Clams, coques, arches"
-5.039.57,50111,"Squids, cuttlefishes, octopuses","Calamares, jibias, polpos","Encornets, seiches, poulpes"
-5.039.76,50112,Sea-urchins and other echinoderms,Erizos de mar y otros equinodermos,Oursins et autres échinodermes
-5.039.77,50113,Miscellaneous molluscs and aquatic invertebrates,Moluscos y otros invertebratos acuáticos,Mollusques et autres invertébrés aquatiques
-7.099.67,50116,Meals,Harina,Farine
-7.099.68,50117,Oils,Aceite,Huiles
-7.099.69,50118,"Fish solubles, silages","Solubles, ensilados de pescado","Solubilisés, ensilages de poisson"
-7.099.82,50119,Corals and shells,Coral y conchas,Corail et coquillages
-7.099.83,50120,Sponges,Esponjas,Eponges
-7.099.94,50121,Seaweeds and aquatic plants,"Algas, plantas aquaticas","Algues, plantes aquatiques"
-7.099.98,50122,Waste and other inedible products,Desechos y otros productos non comestibles,Déchets et autres produits non comestibles
+"FAO_Code","Identifier","Name_En","Name_Es","Name_Fr"
+"1.001.01","50003","Fish for ornamental and culture purposes","Péces ornamentales y para cultivo","Poissons d'ornement et pour l'élevage"
+"1.001.09","50004","Other","Otros","Autres"
+"1.004.10","50006","Freshwater fish","Peces de agua dulce","Poissons d'eau douce"
+"1.004.20","50007","Diadromous fish","Peces diádromos","Poissons diadromes"
+"1.004.31","50008","Flounders, halibuts, soles","Platijas, halibuts, lenguados","Flets, flétans, soles"
+"1.004.32","50009","Cod, hakes, haddocks","Bacalaos, merluzas, eglefinos","Morues, merlus, églefins"
+"1.004.36","50010","Tunas, bonitos, billfishes","Atunes, bonitos, agujas","Thons, pélamides, marlins"
+"1.004.37","50011","Other pelagics","Otros peces pelágicos","Autres poissons pélagiques"
+"1.004.39","50012","Other fish","Otro pescado","Autres poissons"
+"1.004.99","50013","Miscellaneous fish products","Productos de pescado diversos","Produits divers de poisson"
+"1.006.10","50015","Freshwater fish","Peces de agua dulce","Poissons d'eau douce"
+"1.006.20","50016","Diadromous fish","Peces diádromos","Poissons diadromes"
+"1.006.31","50017","Flounders, halibuts, soles","Platijas, halibuts, lenguados","Flets, flétans, soles"
+"1.006.32","50018","Cod, hakes, haddocks","Bacalaos, merluzas, eglefinos","Morues, merlus, églefins"
+"1.006.36","50019","Tunas, bonitos, billfishes","Atunes, bonitos, agujas","Thons, pélamides, marlins"
+"1.006.37","50020","Other pelagics","Otros peces pelágicos","Autres poissons pélagiques"
+"1.006.39","50021","Other fish","Otro pescado","Autres poissons"
+"1.006.99","50022","Miscellaneous fish products","Productos de pescado diversos","Produits divers de poisson"
+"1.014.10","50024","Freshwater fish","Peces de agua dulce","Poissons d'eau douce"
+"1.014.20","50025","Diadromous fish","Peces diádromos","Poissons diadromes"
+"1.014.31","50026","Flounders, halibuts, soles","Platijas, halibuts, lenguados","Flets, flétans, soles"
+"1.014.32","50027","Cod, hakes, haddocks","Bacalaos, merluzas, eglefinos","Morues, merlus, églefins"
+"1.014.36","50028","Tunas, bonitos, billfishes","Atunes, bonitos, agujas","Thons, pélamides, marlins"
+"1.014.37","50029","Other pelagics","Otros peces pelágicos","Autres poissons pélagiques"
+"1.014.39","50030","Other fish","Otro pescado","Autres poissons"
+"1.016.10","50032","Freshwater fish","Peces de agua dulce","Poissons d'eau douce"
+"1.016.20","50033","Diadromous fish","Peces diádromos","Poissons diadromes"
+"1.016.31","50034","Flounders, halibuts, soles","Platijas, halibuts, lenguados","Flets, flétans, soles"
+"1.016.32","50035","Cod, hakes, haddocks","Bacalaos, merluzas, eglefinos","Morues, merlus, églefins"
+"1.016.36","50036","Tunas, bonitos, billfishes","Atunes, bonitos, agujas","Thons, pélamides, marlins"
+"1.016.37","50037","Other pelagics","Otros peces pelágicos","Autres poissons pélagiques"
+"1.016.39","50038","Other fish","Otro pescado","Autres poissons"
+"1.026.10","50040","Freshwater fish","Peces de agua dulce","Poissons d'eau douce"
+"1.026.20","50041","Diadromous fish","Peces diádromos","Poissons diadromes"
+"1.026.31","50042","Flounders, halibuts, soles","Platijas, halibuts, lenguados","Flets, flétans, soles"
+"1.026.32","50043","Cod, hakes, haddocks","Bacalaos, merluzas, eglefinos","Morues, merlus, églefins"
+"1.026.36","50044","Tunas, bonitos, billfishes","Atunes, bonitos, agujas","Thons, pélamides, marlins"
+"1.026.37","50045","Other pelagics","Otros peces pelágicos","Autres poissons pélagiques"
+"1.026.39","50046","Other fish","Otro pescado","Autres poissons"
+"1.029.10","50048","Freshwater fish","Peces de agua dulce","Poissons d'eau douce"
+"1.029.20","50049","Diadromous fish","Peces diádromos","Poissons diadromes"
+"1.029.31","50050","Flounders, halibuts, soles","Platijas, halibuts, lenguados","Flets, flétans, soles"
+"1.029.32","50051","Cod, hakes, haddocks","Bacalaos, merluzas, eglefinos","Morues, merlus, églefins"
+"1.029.36","50052","Tunas, bonitos, billfishes","Atunes, bonitos, agujas","Thons, pélamides, marlins"
+"1.029.37","50053","Other pelagics","Otros peces pelágicos","Autres poissons pélagiques"
+"1.029.39","50054","Other fish","Otro pescado","Autres poissons"
+"1.029.99","50055","Miscellaneous fish products","Productos de pescado diversos","Produits divers de poisson"
+"1.039.10","50057","Freshwater fish","Peces de agua dulce","Poissons d'eau douce"
+"1.039.20","50058","Diadromous fish","Peces diádromos","Poissons diadromes"
+"1.039.32","50059","Cod, hakes, haddocks","Bacalaos, merluzas, eglefinos","Morues, merlus, églefins"
+"1.039.36","50060","Tunas, bonitos, billfishes","Atunes, bonitos, agujas","Thons, pélamides, marlins"
+"1.039.37","50061","Other pelagics","Otros peces pelágicos","Autres poissons pélagiques"
+"1.039.39","50062","Other fish","Otro pescado","Autres poissons"
+"1.039.99","50063","Miscellaneous fish products","Productos de pescado diversos","Produits divers de poisson"
+"2.006.41","50066","Freshwater crustaceans","Crustáceos de agua dulce","Crustacés d'eau douce"
+"2.006.42","50067","Crabs, sea-spiders","Cangrejos, centollas","Crabes, araign;ees de mer"
+"2.006.43","50068","Lobsters, spiny-rock lobsters","Bogavantes, langostas","Homards, langoustes"
+"2.006.44","50069","King crabs, squat-lobsters","Cangrejos reales, galeteidos","Crabes royaux, galatées"
+"2.006.45","50070","Shrimps, prawns","Gambas, camarones","Crevettes"
+"2.006.47","50071","Miscellaneous marine crustaceans","Crustáceos marinos diversos","Crustacés marins divers"
+"2.021.41","50073","Freshwater crustaceans","Crustáceos de agua dulce","Crustacés d'eau douce"
+"2.021.42","50074","Crabs, sea-spiders","Cangrejos, centollas","Crabes, araign;ees de mer"
+"2.021.43","50075","Lobsters, spiny-rock lobsters","Bogavantes, langostas","Homards, langoustes"
+"2.021.44","50076","King crabs, squat-lobsters","Cangrejos reales, galeteidos","Crabes royaux, galatées"
+"2.021.45","50077","Shrimps, prawns","Gambas, camarones","Crevettes"
+"2.021.47","50078","Miscellaneous marine crustaceans","Crustáceos marinos diversos","Crustacés marins divers"
+"2.039.41","50080","Freshwater crustaceans","Crustáceos de agua dulce","Crustacés d'eau douce"
+"2.039.42","50081","Crabs, sea-spiders","Cangrejos, centollas","Crabes, araign;ees de mer"
+"2.039.43","50082","Lobsters, spiny-rock lobsters","Bogavantes, langostas","Homards, langoustes"
+"2.039.44","50083","King crabs, squat-lobsters","Cangrejos reales, galeteidos","Crabes royaux, galatées"
+"2.039.45","50084","Shrimps, prawns","Gambas, camarones","Crevettes"
+"2.039.47","50085","Miscellaneous marine crustaceans","Crustáceos marinos diversos","Crustacés marins divers"
+"5.005.52","50088","Abalones, winkles, conchs","Orejas de mar, bígaros, estrombos","Ormeaux, bigorneaux, strombes"
+"5.005.53","50089","Oysters","Ostras","Huîtres"
+"5.005.54","50090","Mussels","Mejillones","Moules"
+"5.005.55","50091","Scallops, pectens","Vieiras","Coquilles St. Jacques"
+"5.005.56","50092","Clams, cockles, arkshells","Almejas, berberechos, arcas","Clams, coques, arches"
+"5.005.57","50093","Squids, cuttlefishes, octopuses","Calamares, jibias, polpos","Encornets, seiches, poulpes"
+"5.005.76","50094","Sea-urchins and other echinoderms","Erizos de mar y otros equinodermos","Oursins et autres échinodermes"
+"5.005.77","50095","Miscellaneous molluscs and aquatic invertebrates","Moluscos y otros invertebratos acuáticos","Mollusques et autres invertébrés aquatiques"
+"5.020.52","50097","Abalones, winkles, conchs","Orejas de mar, bígaros, estrombos","Ormeaux, bigorneaux, strombes"
+"5.020.53","50098","Oysters","Ostras","Huîtres"
+"5.020.54","50099","Mussels","Mejillones","Moules"
+"5.020.55","50100","Scallops, pectens","Vieiras","Coquilles St. Jacques"
+"5.020.56","50101","Clams, cockles, arkshells","Almejas, berberechos, arcas","Clams, coques, arches"
+"5.020.57","50102","Squids, cuttlefishes, octopuses","Calamares, jibias, polpos","Encornets, seiches, poulpes"
+"5.020.76","50103","Sea-urchins and other echinoderms","Erizos de mar y otros equinodermos","Oursins et autres échinodermes"
+"5.020.77","50104","Miscellaneous molluscs and aquatic invertebrates","Moluscos y otros invertebratos acuáticos","Mollusques et autres invertébrés aquatiques"
+"5.039.52","50106","Abalones, winkles, conchs","Orejas de mar, bígaros, estrombos","Ormeaux, bigorneaux, strombes"
+"5.039.53","50107","Oysters","Ostras","Huîtres"
+"5.039.54","50108","Mussels","Mejillones","Moules"
+"5.039.55","50109","Scallops, pectens","Vieiras","Coquilles St. Jacques"
+"5.039.56","50110","Clams, cockles, arkshells","Almejas, berberechos, arcas","Clams, coques, arches"
+"5.039.57","50111","Squids, cuttlefishes, octopuses","Calamares, jibias, polpos","Encornets, seiches, poulpes"
+"5.039.76","50112","Sea-urchins and other echinoderms","Erizos de mar y otros equinodermos","Oursins et autres échinodermes"
+"5.039.77","50113","Miscellaneous molluscs and aquatic invertebrates","Moluscos y otros invertebratos acuáticos","Mollusques et autres invertébrés aquatiques"
+"7.099.67","50116","Meals","Harina","Farine"
+"7.099.68","50117","Oils","Aceite","Huiles"
+"7.099.69","50118","Fish solubles, silages","Solubles, ensilados de pescado","Solubilisés, ensilages de poisson"
+"7.099.82","50119","Corals and shells","Coral y conchas","Corail et coquillages"
+"7.099.83","50120","Sponges","Esponjas","Eponges"
+"7.099.94","50121","Seaweeds and aquatic plants","Algas, plantas aquaticas","Algues, plantes aquatiques"
+"7.099.98","50122","Waste and other inedible products","Desechos y otros productos non comestibles","Déchets et autres produits non comestibles"

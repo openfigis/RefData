@@ -1,4 +1,4 @@
-FAO_Major_Code,Identifier,Name_En,Name_Es,Name_Fr
-10,40001,"Fish, crustaceans and molluscs","Pescado, crustáceos y moluscos","Poissons, crustacés et mollusques"
-20,40009,Aquatic plants,Plantas acuáticas,Plantes aquatiques
-30,40011,Other,Otros,Autres
+"FAO_Major_Code","Identifier","Name_En","Name_Es","Name_Fr"
+"10","40001","Fish, crustaceans and molluscs","Pescado, crustáceos y moluscos","Poissons, crustacés et mollusques"
+"20","40009","Aquatic plants","Plantas acuáticas","Plantes aquatiques"
+"30","40011","Other aq. animals & products","Otros animales ac. y productos","Autres animaux aq. et produits"

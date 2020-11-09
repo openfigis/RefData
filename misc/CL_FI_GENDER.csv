@@ -1,4 +1,4 @@
-"Code","Name_En","Name_Fr","Name_Es","Name_Ar","Name_Cn","Name_Ru","Identifier"
-"F","Female","Femmes","Mujeres","","","женщины","1"
-"M","Male","Hommes","Hombres","","","мужчины ","2"
-"U","Unknown gender","Genre inconnu","Género desconocido","","","пол неизвестен","0"
+"Code","Identifier","Name_En","Name_Es","Name_Fr","Name_Ru"
+"U","0","Unknown gender","Género desconocido","Genre inconnu","пол неизвестен"
+"F","1","Female","Mujeres","Femmes","женщины"
+"M","2","Male","Hombres","Hommes","мужчины"

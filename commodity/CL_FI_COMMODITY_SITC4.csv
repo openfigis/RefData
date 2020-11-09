@@ -1,72 +1,72 @@
-Identifier,Name_En,Name_Es,Name_Fr,SITC_Code
-70001,"Fish, crustaceans, molluscs and aquatic invertebrates, and preparations thereof","Pescado, crustáceos, moluscos e invertebrados acuáticos y sus preparados","Poissons, crustaces, mollusques et autres invertebres aquatiques et leurs préparations",03
-70002,"Fish, fresh (live or dead), chilled or frozen","Pescado, fresco (vivo o muerto), refrigerado o congelado","Poissons frais (vivants ou morts), réfrigerés our congelés",034
-70003,"Fish, fresh (live or dead) or chilled (excluding fillets and minced fish)","Pescado, fresco (vivo o muerto) o refrigerado (excepto hígados y huevas)",Poissons frais (vivants ou morts) ou réfrigérés (à l'exclusion des filets et du poisson haché),034.1
-70004,"Fish, live",Peces vivos,Poissons vivants,034.11
-70005,"Salmonidae, fresh or chilled (excluding livers and roes)","Salmónidos, frescos o refrigerados (excepto hígados y huevas)","Salmonidés frais ou réfrigérés (à l'exclusion des foies, oeufs et laitances)",034.12
-70006,"Flat-fish, fresh or chilled (excluding livers and roes)","Peces pleuronectos, frescos o refrigerados (excepto hígados y huevas)","Poissons plats, frais ou réfrigérés (à l'exclusion des foies, oeufs et laitances)",034.13
-70007,"Tunas, skipjack or stripe-bellied bonito, fresh or chilled","Atunes, listado o bonito de panza veteada, frescos o refrigerados","Thons, listaos ou bonites à ventre rayé, frais ou réfrigérés",034.14
-70008,"Herrings, sardines, sardinella, brislings or sprats, fresh or chilled","Arenques, sardinas, sardinetas o espadines, frescos o refrigerados","Harengs, sardines, sardinelles, sprats ou esprots, frais ou réfrigérés",034.15
-70009,"Cod, fresh or chilled (excluding livers and roes)","Bacalao, fresco o refrigerado (excepto hígados y huevas)","Morues fraîches ou réfrigérées (à l'exclusion des foies, oeufs et laitances)",034.16
-70010,"Mackerel (scombrids), fresh or chilled (excluding livers and roes)","Caballa (escómbridos), fresca o refrigerada","Maquereaux (scombridés) frais ou réfrigérés (à l'exclusion des foies, oeufs et laitances)",034.17
-70011,"Other fish, fresh or chilled (excluding livers and roes)","Otros pescados, frescos o refrigerados (excepto hígados y huevas)","Autres poissons, frais ou réfrigérés (à l'exclusion des foies, oeufs et laitances)",034.18
-70012,"Fish livers and roes, fresh or chilled","Hígados y huevas, frescos o refrigerados","Foies, oeufs et laitances de poisson, frais ou réfrigérés",034.19
-70013,"Fish, frozen (excluding fillets and minced fish)",Pescado congelado (excepto filetes y pescado picado),Poissons congelés (à l'exception des filets de poisson et du poisson haché),034.2
-70014,"Salmonidae, frozen (excluding livers and roes)","Salmónidos, congelados (excepto hígados y huevas)","Salmonidés congelés (à l'exclusion des foies, oeufs et laitances)",034.21
-70015,"Flat-fish, frozen (excluding livers and roes)","Peces pleuronectos, congelados (excepto hígados y huevas)","Poissons plats congelés (à l'exclusion des foies, oeufs et laitances)",034.22
-70016,"Tunas, skipjack or stripe-bellied bonito, frozen (excluding livers and roes)","Atún, listado o bonito de panza veteada, congelados (excepto hígados y huevas)","Thons, listaos ou bonites à ventre rayé, congelés (à l'exclusion des foies, oeufs et laitances)",034.23
-70017,"Herrings, sardines, sardinella, brislings or sprats, frozen","Arenques, sardinas, sardinetas o espadines, congelados","Harengs, sardines, sardinelles, sprats ou esprots congelés",034.24
-70018,"Cod, frozen (excluding livers and roes)",Bacalao congelado (excepto hígados y huevas),"Morues congelées (à l'exclusion des foies, oeufs et laitances)",034.25
-70019,"Mackerel (scombrids), frozen (excluding livers and roes)",Caballa (escómbridos) congelada (excepto hígados y huevas),"Maquereaux (scombridés) congelés (à l'exclusion des foies, oeufs et laitances)",034.26
-70020,"Hake, frozen (excluding livers and roes)",Merluza congelada (excepto hígados y huevas),"Merlus congelés (à l'exclusion des foies, oeufs et laitances)",034.27
-70021,"Other fish, frozen (excluding livers and roes)",Otros pescados congelados (excepto hígados y huevas),"Autres poissons congelés (à l'exclusion des foies, oeufs et laitances)",034.28
-70022,"Fish livers and roes, frozen","Hígados y huevas, congelados","Foies, oeufs et laitances de poissons, congelés",034.29
-70023,"Fish fillets, frozen","Filetes de pescado, congelados",Filets de poisson congelés,034.4
-70024,"Fish fillets, fresh, chilled, and other fish meat (whether or not minced), fresh, chilled, frozen","Filetes de pescado,frescos/refrigerados,carnes de pescado(picadas o no),frescas/refrigeradas/congeladas","Filets de poissons, frais, réfrigérés et chair de poisson (même hachée), frais, réfrigérés, congelés",034.5
-70025,"Fish fillets and other fish meat, fresh or chilled","Filetes de pescado y otras carnes de pescado, frescas o refrigeradas","Filets et autre chair de poissons, frais ou réfrigérés",034.51
-70026,"Fish meat (other than fillets), frozen","Carnes de pescado (excepto filetes), congeladas",Chair de poissons (à l'exclusion des filets) congelée,034.55
-70027,"Fish, dried, salted or in brine, smoked; flours, meals and pellets of fish, fit for human consumption","Pescado, seco, salado,en salmuera, ahumado; harina de pescado apta para el consumo humano","Poissons, séchés, salés ou en saumure, fumés; farines et paillettes de poisson propres à la consommation humaine",035
-70028,"Fish, dried, salted or in brine, but not smoked","Pescado seco, salado o en salmuera, pero no ahumado","Poissons, séchés, salés ou en saumure, mais non fumés",035.1
-70029,"Cod (Gadus morhua, G.ogac, G.macrocephalus), not in fillets, dried, whether or not salted","Bacalao (Gadus morhua, G. ogac, G. macrocephalus, no en filetes) seco, salado o sin salar","Morues (Gadus morhua, G.ogac, G.macrocephalus)autres qu'en filets, séchées, même salées, non fumées",035.11
-70030,"Fish fillets, dried, salted or in brine","Filetes secos, salados o en salmuera","Filets de poissons séchés, salés ou en saumure, mais non fumés",035.12
-70031,"Fish, dried, whether or not salted, n.e.s.","Pescado seco, salado o no, n.e.p.","Poissons (sauf en filets) séchés, même salés, mais non fumés, n.d.a.",035.13
-70032,"Fish, salted but not dried or smoked and fish in brine","Pescado salado, pero no seco ni ahumado, y pescado en salmuera","Poissons salés, mais non séchés ou fumés, et poissons en saumure",035.2
-70033,"Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)","Bacalao (Gadus morhua,Gadus ogac, Gadus macrocephalus), salado y en salmuera","Morues (Gadus morhua, G. ogac, G. macrocephalus, salées (mais non séchées ni fumées) ou en saumure",035.21
-70034,Anchovies,"Anchoas, saladas y en salmuera","Anchois, salés (mais ni séchés ni fumés) ou en saumure",035.22
-70035,Other fish,"Otros pescados, salados y en salmuera",Autres poissons salés (mais ni séchés ni fumés) ou en saumure,035.29
-70036,"Fish (including fillets), smoked, whether or not cooked before or during the smoking process","Pescado (incluso filetes) ahumado, cocido o no antes o durante el proceso de ahumado","Poissons (y compris filets) fumés, même cuits avant ou pendant le fumage",035.3
-70037,"Fish liver and roes, dried, smoked, salted or in brine","Hígado y huevas de pescado, secos, ahumados, salados o en salmuera","Foies, oeufs et laitances de poisson, séchés, fumés, salés ou en saumure",035.4
-70038,"Flours, meals and pellets of fish, fit for human consumption",Harina de pescado apta para el consumo humano,Farines et paillettes de poisson propres à la consommation humaine,035.5
-70039,"Crustaceans, molluscs and aquatic invertebrates","Crustáceos, moluscos e invertebrados acuáticos","Crustaces, mollusques et invertebres aquatiques",036
-70040,"Crustaceans, frozen",Crustáceos congelados,Crustacés congelés,036.1
-70041,"Shrimps and prawns, frozen",Camarones y quisquillas congelados,Crevettes congelées,036.11
-70042,"Other crustaceans, frozen",Otros crustáceos congelados,"Autres crustacés, congelés",036.19
-70043,"Crustaceans, other than frozen","Crustáceos, excepto los congelados","Crustacés, autres que congelés",036.2
-70044,Oysters,Ostras,"Huîtres fraîches, réfrigérées, congelées, séchées, salées ou en saumure",036.31
-70045,"Cuttlefish, octopus and squid, fresh or chilled","Jibias, pulpos y calamares, frescos o refrigerado","Seiches, calmars, poulpes ou pieuvres, frais ou réfrigérés",036.33
-70046,"Other molluscs and aquatic invertebrates, fresh or chilled","Otros moluscos e invertebrados acuáticos, frescos o refrigerados","Autres mollusques et invertébrés aquatiques, frais ou réfrigérés",036.35
-70047,"Cuttlefish, octopus and squid, frozen, dried, salted or in brine","Jibias, pulpos y calamares, congelados, secos, salados o en salmuera","Seiches, calmars, poulpes ou pieuvres congelés, séchés, salés ou en saumure",036.37
-70048,"Other molluscs and aquatic invertebrates, frozen, dried, salted or in brine","Otros moluscos e invertebrados acuáticos, congelados, secos, salados o en salmuera","Autres mollusques et invertébrés aquatiques, congelés, séchés, salés ou en saumure",036.39
-70049,"Fish, crustaceans, molluscs and other aquatic invertebrates, prepared or preserved, n.e.s.","Pescados, crustáceos, moluscos y otros invertebrados acuáticos, preparados o en conserva, n.e.p.","Préparations de poisson, de crustacés, de mollusques et d'autres invertébrés aquatiques n.d.a.",037
-70050,"Fish, prepared or preserved, n.e.s.; caviar and caviar substitutes prepared from fish eggs","Pescado, preparado o en conserva, n.e.p.; caviar y sucedáneos preparados a base de huevos de pescado","Préparations ou conserves de poisson, n.d.a.; caviar et ses succédanés, préparés d'oeufs de poisson",037.1
-70051,"Salmon, whole or in pieces, but not minced","Salmón, preparado o en conserva entero o troceado, pero no picado","Saumons préparés ou conservés, entiers ou en morceaux, mais non émincés",037.11
-70052,"Herrings, sardines, sardinella and brislings or sprats, whole or in pieces, but not minced","Arenques, sardinas, sardinetas y espadines, preparados o en conserva enteros o troceados, pero no picados","Harengs, sardines, sardinelles, sprats ou esprots, entiers ou en morceaux, mais non émincés",037.12
-70053,"Tunas, skipjack and Atlantic bonito (Sarda spp.), whole or in pieces, but not minced","Atunes, listado y bonito del Atlántico, preparados o en conserva enteros o troceados, pero no picados","Thons, listaos et sardes (Sarda esp.) entiers ou en morceaux, mais non émincés",037.13
-70054,"Mackerel, whole or in pieces, but not minced","Caballa, preparada o en conserva, entera o troceada, pero no picada","Maquereaux préparés ou conservés, entiers ou en morceaux, mais non émincés",037.14
-70055,"Other fish, whole or in pieces, but not minced","Otros pescados, preparados o en conserva, enteros o troceados, pero no picados","Autres poissons préparés ou conservés, entiers ou en morceaux, mais non émincés",037.15
-70056,"Other fish, prepared or preserved, n.e.s.","Otros pescados, preparados o en conserva, n.e.p.","Autres préparations ou conserves de poisson, n.d.a.",037.16
-70057,Caviar and caviar substitutes prepared from fish eggs,Caviar y sucedáneos preparados a base de huevos de pescado,Caviar et ses succédanés préparés à partir d'oeufs de poissons,037.17
-70058,"Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved, n.e.s.","Crustáceos, moluscos y otros invertebrados acuáticos, preparados o en conserva, n.e.p.","Préparations ou conserves de crustacés, mollusques et autres invertébrés aquatiques, n.d.a.",037.2
-70059,"Crustaceans, prepared or preserved, n.e.s.","Crustáceos, preparados o en conserva, n.e.p.","Préparations ou conserves de crustacés, n.d.a.",037.21
-70060,"Molluscs and other aquatic invertebrates, prepared or preserved, n.e.s.","Moluscos y otros invertebrados acuáticos, preparados o en conserva, n.e.p.","Préparations ou conserves de mollusques et autres invertébrés aquatiques, n.d.a.",037.22
-70061,"Flours, meals and pellets, unfit for human consumption","Harinas, y gránulos, no aptos para consumo humano","Farines, poudres et granulés, impropres à l'alimentation humaine",081.42
-70062,"Preparations of a kind used for animal food, n.e.s.","Preparados del tipo utilizado para la alimentación de animales, n.e.p.","Préparations des types utilisés pour l'alimentation des animaux, n.d.a.",081.99
-70063,"Coral and similar materials, shells and cuttle-bone, unworked or simply prepared","Coral y sustancias análogas, conchas y jibión, sin labrar o preparadas simplemente","Corail et matières similaires, coquillages vides et os de seiches bruts ou simplement préparés",291.15
-70064,"Products of fish or crustaceans, molluscs or other aquatic invertebrates,unfit for human consumption","Productos de peces, crustáceos, moluscos, otros invertebrados acuáticos no aptos para consumo humano","Produits de poissons,crustacés,mollusques,invertébrés aquatiques,impropres à la consommation humaine",291.96
-70065,Natural sponges of animal origin,Esponjas naturales de origen animal,Eponges naturelles d'origine animale,291.97
-70066,Seaweeds and other algae,Algas marinas y otras algas,Algues marines et autres,292.97
-70067,"Fats and oils and their fractions, of fish or marine mammals",Grasas y aceites de pescado o de mamíferos marinos y sus fracciones,"Graisses et huiles et leurs fractions, de poissons ou de mammifères marins",411.1
-70068,Fish liver oils and their fractions,Aceites de hígado de pescado y sus fracciones,Huiles de foies de poissons et leurs fractions,411.11
-70069,"Fats and oils and their fractions, of fish, other than liver oils","Grasas y aceites de pescado, excepto aceites de higado, y sus fracciones","Graisses et huiles de poissons et leurs fractions, autres que les huiles de foies",411.12
-70070,"Fats and oils and their fractions, of marine mammals",Grasas y aceites de mamíferos marinos y sus fracciones,Graisses et huiles de mammifères marins et leurs fractions,411.13
-70071,"Mucilages and thickeners, whether or not modified, derived from vegetable products","Mucílagos y espesadores, modificados o no, derivados de productos vegetales","Mucilages et épaississants, même modifiés, dérivés des végétaux",292.96
+"Identifier","Name_En","Name_Es","Name_Fr","SITC_Code"
+"70001","Fish, crustaceans, molluscs and aquatic invertebrates, and preparations thereof","Pescado, crustáceos, moluscos e invertebrados acuáticos y sus preparados","Poissons, crustaces, mollusques et autres invertebres aquatiques et leurs préparations","03"
+"70002","Fish, fresh (live or dead), chilled or frozen","Pescado, fresco (vivo o muerto), refrigerado o congelado","Poissons frais (vivants ou morts), réfrigerés our congelés","034"
+"70003","Fish, fresh (live or dead) or chilled (excluding fillets and minced fish)","Pescado, fresco (vivo o muerto) o refrigerado (excepto hígados y huevas)","Poissons frais (vivants ou morts) ou réfrigérés (à l'exclusion des filets et du poisson haché)","034.1"
+"70004","Fish, live","Peces vivos","Poissons vivants","034.11"
+"70005","Salmonidae, fresh or chilled (excluding livers and roes)","Salmónidos, frescos o refrigerados (excepto hígados y huevas)","Salmonidés frais ou réfrigérés (à l'exclusion des foies, oeufs et laitances)","034.12"
+"70006","Flat-fish, fresh or chilled (excluding livers and roes)","Peces pleuronectos, frescos o refrigerados (excepto hígados y huevas)","Poissons plats, frais ou réfrigérés (à l'exclusion des foies, oeufs et laitances)","034.13"
+"70007","Tunas, skipjack or stripe-bellied bonito, fresh or chilled","Atunes, listado o bonito de panza veteada, frescos o refrigerados","Thons, listaos ou bonites à ventre rayé, frais ou réfrigérés","034.14"
+"70008","Herrings, sardines, sardinella, brislings or sprats, fresh or chilled","Arenques, sardinas, sardinetas o espadines, frescos o refrigerados","Harengs, sardines, sardinelles, sprats ou esprots, frais ou réfrigérés","034.15"
+"70009","Cod, fresh or chilled (excluding livers and roes)","Bacalao, fresco o refrigerado (excepto hígados y huevas)","Morues fraîches ou réfrigérées (à l'exclusion des foies, oeufs et laitances)","034.16"
+"70010","Mackerel (scombrids), fresh or chilled (excluding livers and roes)","Caballa (escómbridos), fresca o refrigerada","Maquereaux (scombridés) frais ou réfrigérés (à l'exclusion des foies, oeufs et laitances)","034.17"
+"70011","Other fish, fresh or chilled (excluding livers and roes)","Otros pescados, frescos o refrigerados (excepto hígados y huevas)","Autres poissons, frais ou réfrigérés (à l'exclusion des foies, oeufs et laitances)","034.18"
+"70012","Fish livers and roes, fresh or chilled","Hígados y huevas, frescos o refrigerados","Foies, oeufs et laitances de poisson, frais ou réfrigérés","034.19"
+"70013","Fish, frozen (excluding fillets and minced fish)","Pescado congelado (excepto filetes y pescado picado)","Poissons congelés (à l'exception des filets de poisson et du poisson haché)","034.2"
+"70014","Salmonidae, frozen (excluding livers and roes)","Salmónidos, congelados (excepto hígados y huevas)","Salmonidés congelés (à l'exclusion des foies, oeufs et laitances)","034.21"
+"70015","Flat-fish, frozen (excluding livers and roes)","Peces pleuronectos, congelados (excepto hígados y huevas)","Poissons plats congelés (à l'exclusion des foies, oeufs et laitances)","034.22"
+"70016","Tunas, skipjack or stripe-bellied bonito, frozen (excluding livers and roes)","Atún, listado o bonito de panza veteada, congelados (excepto hígados y huevas)","Thons, listaos ou bonites à ventre rayé, congelés (à l'exclusion des foies, oeufs et laitances)","034.23"
+"70017","Herrings, sardines, sardinella, brislings or sprats, frozen","Arenques, sardinas, sardinetas o espadines, congelados","Harengs, sardines, sardinelles, sprats ou esprots congelés","034.24"
+"70018","Cod, frozen (excluding livers and roes)","Bacalao congelado (excepto hígados y huevas)","Morues congelées (à l'exclusion des foies, oeufs et laitances)","034.25"
+"70019","Mackerel (scombrids), frozen (excluding livers and roes)","Caballa (escómbridos) congelada (excepto hígados y huevas)","Maquereaux (scombridés) congelés (à l'exclusion des foies, oeufs et laitances)","034.26"
+"70020","Hake, frozen (excluding livers and roes)","Merluza congelada (excepto hígados y huevas)","Merlus congelés (à l'exclusion des foies, oeufs et laitances)","034.27"
+"70021","Other fish, frozen (excluding livers and roes)","Otros pescados congelados (excepto hígados y huevas)","Autres poissons congelés (à l'exclusion des foies, oeufs et laitances)","034.28"
+"70022","Fish livers and roes, frozen","Hígados y huevas, congelados","Foies, oeufs et laitances de poissons, congelés","034.29"
+"70023","Fish fillets, frozen","Filetes de pescado, congelados","Filets de poisson congelés","034.4"
+"70024","Fish fillets, fresh, chilled, and other fish meat (whether or not minced), fresh, chilled, frozen","Filetes de pescado,frescos/refrigerados,carnes de pescado(picadas o no),frescas/refrigeradas/congeladas","Filets de poissons, frais, réfrigérés et chair de poisson (même hachée), frais, réfrigérés, congelés","034.5"
+"70025","Fish fillets and other fish meat, fresh or chilled","Filetes de pescado y otras carnes de pescado, frescas o refrigeradas","Filets et autre chair de poissons, frais ou réfrigérés","034.51"
+"70026","Fish meat (other than fillets), frozen","Carnes de pescado (excepto filetes), congeladas","Chair de poissons (à l'exclusion des filets) congelée","034.55"
+"70027","Fish, dried, salted or in brine, smoked; flours, meals and pellets of fish, fit for human consumption","Pescado, seco, salado,en salmuera, ahumado; harina de pescado apta para el consumo humano","Poissons, séchés, salés ou en saumure, fumés; farines et paillettes de poisson propres à la consommation humaine","035"
+"70028","Fish, dried, salted or in brine, but not smoked","Pescado seco, salado o en salmuera, pero no ahumado","Poissons, séchés, salés ou en saumure, mais non fumés","035.1"
+"70029","Cod (Gadus morhua, G.ogac, G.macrocephalus), not in fillets, dried, whether or not salted","Bacalao (Gadus morhua, G. ogac, G. macrocephalus, no en filetes) seco, salado o sin salar","Morues (Gadus morhua, G.ogac, G.macrocephalus)autres qu'en filets, séchées, même salées, non fumées","035.11"
+"70030","Fish fillets, dried, salted or in brine","Filetes secos, salados o en salmuera","Filets de poissons séchés, salés ou en saumure, mais non fumés","035.12"
+"70031","Fish, dried, whether or not salted, n.e.s.","Pescado seco, salado o no, n.e.p.","Poissons (sauf en filets) séchés, même salés, mais non fumés, n.d.a.","035.13"
+"70032","Fish, salted but not dried or smoked and fish in brine","Pescado salado, pero no seco ni ahumado, y pescado en salmuera","Poissons salés, mais non séchés ou fumés, et poissons en saumure","035.2"
+"70033","Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)","Bacalao (Gadus morhua,Gadus ogac, Gadus macrocephalus), salado y en salmuera","Morues (Gadus morhua, G. ogac, G. macrocephalus, salées (mais non séchées ni fumées) ou en saumure","035.21"
+"70034","Anchovies","Anchoas, saladas y en salmuera","Anchois, salés (mais ni séchés ni fumés) ou en saumure","035.22"
+"70035","Other fish","Otros pescados, salados y en salmuera","Autres poissons salés (mais ni séchés ni fumés) ou en saumure","035.29"
+"70036","Fish (including fillets), smoked, whether or not cooked before or during the smoking process","Pescado (incluso filetes) ahumado, cocido o no antes o durante el proceso de ahumado","Poissons (y compris filets) fumés, même cuits avant ou pendant le fumage","035.3"
+"70037","Fish liver and roes, dried, smoked, salted or in brine","Hígado y huevas de pescado, secos, ahumados, salados o en salmuera","Foies, oeufs et laitances de poisson, séchés, fumés, salés ou en saumure","035.4"
+"70038","Flours, meals and pellets of fish, fit for human consumption","Harina de pescado apta para el consumo humano","Farines et paillettes de poisson propres à la consommation humaine","035.5"
+"70039","Crustaceans, molluscs and aquatic invertebrates","Crustáceos, moluscos e invertebrados acuáticos","Crustaces, mollusques et invertebres aquatiques","036"
+"70040","Crustaceans, frozen","Crustáceos congelados","Crustacés congelés","036.1"
+"70041","Shrimps and prawns, frozen","Camarones y quisquillas congelados","Crevettes congelées","036.11"
+"70042","Other crustaceans, frozen","Otros crustáceos congelados","Autres crustacés, congelés","036.19"
+"70043","Crustaceans, other than frozen","Crustáceos, excepto los congelados","Crustacés, autres que congelés","036.2"
+"70044","Oysters","Ostras","Huîtres fraîches, réfrigérées, congelées, séchées, salées ou en saumure","036.31"
+"70045","Cuttlefish, octopus and squid, fresh or chilled","Jibias, pulpos y calamares, frescos o refrigerado","Seiches, calmars, poulpes ou pieuvres, frais ou réfrigérés","036.33"
+"70046","Other molluscs and aquatic invertebrates, fresh or chilled","Otros moluscos e invertebrados acuáticos, frescos o refrigerados","Autres mollusques et invertébrés aquatiques, frais ou réfrigérés","036.35"
+"70047","Cuttlefish, octopus and squid, frozen, dried, salted or in brine","Jibias, pulpos y calamares, congelados, secos, salados o en salmuera","Seiches, calmars, poulpes ou pieuvres congelés, séchés, salés ou en saumure","036.37"
+"70048","Other molluscs and aquatic invertebrates, frozen, dried, salted or in brine","Otros moluscos e invertebrados acuáticos, congelados, secos, salados o en salmuera","Autres mollusques et invertébrés aquatiques, congelés, séchés, salés ou en saumure","036.39"
+"70049","Fish, crustaceans, molluscs and other aquatic invertebrates, prepared or preserved, n.e.s.","Pescados, crustáceos, moluscos y otros invertebrados acuáticos, preparados o en conserva, n.e.p.","Préparations de poisson, de crustacés, de mollusques et d'autres invertébrés aquatiques n.d.a.","037"
+"70050","Fish, prepared or preserved, n.e.s.; caviar and caviar substitutes prepared from fish eggs","Pescado, preparado o en conserva, n.e.p.; caviar y sucedáneos preparados a base de huevos de pescado","Préparations ou conserves de poisson, n.d.a.; caviar et ses succédanés, préparés d'oeufs de poisson","037.1"
+"70051","Salmon, whole or in pieces, but not minced","Salmón, preparado o en conserva entero o troceado, pero no picado","Saumons préparés ou conservés, entiers ou en morceaux, mais non émincés","037.11"
+"70052","Herrings, sardines, sardinella and brislings or sprats, whole or in pieces, but not minced","Arenques, sardinas, sardinetas y espadines, preparados o en conserva enteros o troceados, pero no picados","Harengs, sardines, sardinelles, sprats ou esprots, entiers ou en morceaux, mais non émincés","037.12"
+"70053","Tunas, skipjack and Atlantic bonito (Sarda spp.), whole or in pieces, but not minced","Atunes, listado y bonito del Atlántico, preparados o en conserva enteros o troceados, pero no picados","Thons, listaos et sardes (Sarda esp.) entiers ou en morceaux, mais non émincés","037.13"
+"70054","Mackerel, whole or in pieces, but not minced","Caballa, preparada o en conserva, entera o troceada, pero no picada","Maquereaux préparés ou conservés, entiers ou en morceaux, mais non émincés","037.14"
+"70055","Other fish, whole or in pieces, but not minced","Otros pescados, preparados o en conserva, enteros o troceados, pero no picados","Autres poissons préparés ou conservés, entiers ou en morceaux, mais non émincés","037.15"
+"70056","Other fish, prepared or preserved, n.e.s.","Otros pescados, preparados o en conserva, n.e.p.","Autres préparations ou conserves de poisson, n.d.a.","037.16"
+"70057","Caviar and caviar substitutes prepared from fish eggs","Caviar y sucedáneos preparados a base de huevos de pescado","Caviar et ses succédanés préparés à partir d'oeufs de poissons","037.17"
+"70058","Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved, n.e.s.","Crustáceos, moluscos y otros invertebrados acuáticos, preparados o en conserva, n.e.p.","Préparations ou conserves de crustacés, mollusques et autres invertébrés aquatiques, n.d.a.","037.2"
+"70059","Crustaceans, prepared or preserved, n.e.s.","Crustáceos, preparados o en conserva, n.e.p.","Préparations ou conserves de crustacés, n.d.a.","037.21"
+"70060","Molluscs and other aquatic invertebrates, prepared or preserved, n.e.s.","Moluscos y otros invertebrados acuáticos, preparados o en conserva, n.e.p.","Préparations ou conserves de mollusques et autres invertébrés aquatiques, n.d.a.","037.22"
+"70061","Flours, meals and pellets, unfit for human consumption","Harinas, y gránulos, no aptos para consumo humano","Farines, poudres et granulés, impropres à l'alimentation humaine","081.42"
+"70062","Preparations of a kind used for animal food, n.e.s.","Preparados del tipo utilizado para la alimentación de animales, n.e.p.","Préparations des types utilisés pour l'alimentation des animaux, n.d.a.","081.99"
+"70063","Coral and similar materials, shells and cuttle-bone, unworked or simply prepared","Coral y sustancias análogas, conchas y jibión, sin labrar o preparadas simplemente","Corail et matières similaires, coquillages vides et os de seiches bruts ou simplement préparés","291.15"
+"70064","Products of fish or crustaceans, molluscs or other aquatic invertebrates,unfit for human consumption","Productos de peces, crustáceos, moluscos, otros invertebrados acuáticos no aptos para consumo humano","Produits de poissons,crustacés,mollusques,invertébrés aquatiques,impropres à la consommation humaine","291.96"
+"70065","Natural sponges of animal origin","Esponjas naturales de origen animal","Eponges naturelles d'origine animale","291.97"
+"70066","Seaweeds and other algae","Algas marinas y otras algas","Algues marines et autres","292.97"
+"70067","Fats and oils and their fractions, of fish or marine mammals","Grasas y aceites de pescado o de mamíferos marinos y sus fracciones","Graisses et huiles et leurs fractions, de poissons ou de mammifères marins","411.1"
+"70068","Fish liver oils and their fractions","Aceites de hígado de pescado y sus fracciones","Huiles de foies de poissons et leurs fractions","411.11"
+"70069","Fats and oils and their fractions, of fish, other than liver oils","Grasas y aceites de pescado, excepto aceites de higado, y sus fracciones","Graisses et huiles de poissons et leurs fractions, autres que les huiles de foies","411.12"
+"70070","Fats and oils and their fractions, of marine mammals","Grasas y aceites de mamíferos marinos y sus fracciones","Graisses et huiles de mammifères marins et leurs fractions","411.13"
+"70071","Mucilages and thickeners, whether or not modified, derived from vegetable products","Mucílagos y espesadores, modificados o no, derivados de productos vegetales","Mucilages et épaississants, même modifiés, dérivés des végétaux","292.96"
