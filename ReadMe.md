@@ -11,7 +11,7 @@ file naming:
 
 -DSD_* "Data Structure Definition": describes how information in a specific dataset is structured. It defines the dimensions, measures and their related attributes. 
 
-In this release the colum names have changed slightly; and columns are ordered alphabetically. The change was required, as we migrated from the legacy FIGIS/RTMS to the corporate MDM system. 
+In this release the column names have changed slightly; and columns are ordered alphabetically. The change was required, as we migrated from the legacy FIGIS/RTMS to the corporate MDM system. 
 We do apologise for any inconvenience caused.
 
 file encoding:
