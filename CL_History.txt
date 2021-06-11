@@ -9,6 +9,7 @@ FAO code-list history:
 2018.1.1  25-May-2018  updated codelists
 2019.1.0  04-Apr-2019  updated codelists
 2020.1.0  09-Nov-2020  first export from corporate MDM system
+2021.1.0  14-Jun-2021  updated codelists
 
 FAO time-series history:
 2017.1.1  20-Apr-2017  Aquaculture/Catch/GlobalProuction: changed Code column of CL_FI_AREA_GROUPS to area code
@@ -19,4 +20,5 @@ FAO time-series history:
 2018.1.2  25-May-2018  Production: added Unit
 2019.1.0  16-May-2019  release of 2019 data
 2020.1.0  21-May-2020  release of Aquaculture/Catch/GlobalProuction
-                       
+2021.1.0  14-Jun-2021  release of Aquaculture/Catch/GlobalProuction; new format
+*

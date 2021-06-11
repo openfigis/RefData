@@ -3,16 +3,18 @@ This is the FAO Fishery and Aquaculture Reference Data repository.
 
 file naming:
 -------------
--TS_*  "time-series": corresponds to the contents of the FAO database and structure according to a series of codes (CL);
 
--CL_*  "code-lists": contains the identifier and mapping to other codes and descriptions; 
+- CL_*   "code-lists": contains the identifier and mapping to other codes and descriptions; 
 
--HCL_*  "hierarchical code-lists": contains the grouping information, a pointer (foreign key) from the reference object (parent) to the children
+- HCL_*  "hierarchical code-lists": contains the grouping information, a pointer (foreign key) from the reference object (parent) to the children
 
--DSD_* "Data Structure Definition": describes how information in a specific dataset is structured. It defines the dimensions, measures and their related attributes. 
+- FSJ_*  FishStat defintions defining our datasets and the new query panel
 
-In this release the colum names have changed slightly; and columns are ordered alphabetically. The change was required, as we migrated from the legacy FIGIS/RTMS to the corporate MDM system. 
-We do apologise for any inconvenience caused.
+- DSD_* "Data Structure Definition": describes how information in a specific dataset is structured. It defines the dimensions, measures and their related attributes. 
+
+All reference data is exported from our corporate MDM system.
+From now on we publish data using the FishStatJ format, the old FIGIS system will be retired soon. 
+The structure is documented in the DSD files, (FSJ*) metadata is used to build FishStatJ workspaces.
 
 file encoding:
 -------------
@@ -28,7 +30,7 @@ for aquatic plants, pearls and mother-of-pearl, data should be filtered using a 
 
 COPYRIGHT & DISCLAIMER CLAUSES
 ---------------------
-FAO encourages the use, reproduction and dissemination of material in this information product. Except where otherwise indicated, material may be copied, downloaded and printed for private study, research and teaching purposes, or for use in non-commercial products or services, provided that appropriate acknowledgement of FAO as the source and copyright holder is given and that FAO�s endorsement of users� views, products or services is not implied in any way.
+FAO encourages the use, reproduction and dissemination of material in this information product. Except where otherwise indicated, material may be copied, downloaded and printed for private study, research and teaching purposes, or for use in non-commercial products or services, provided that appropriate acknowledgement of FAO as the source and copyright holder is given and that FAO's endorsement of users' views, products or services is not implied in any way.
 All requests for translation and adaptation rights, and for resale and other commercial use rights should be made via www.fao.org/contact-us/licence-request or addressed to copyright@fao.org.
 
 The designations employed and the presentation of material in this information product do not imply the expression of any opinion whatsoever on the part of the Food and Agriculture Organization of the United Nations (FAO) concerning the legal or development status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. The mention of specific companies or products of manufacturers, whether or not these have been patented, does not imply that these have been endorsed or recommended by FAO in preference to others of a similar nature that are not mentioned.
@@ -40,4 +42,4 @@ The designations employed and the presentation of material in the map(s) do not 
 For comments, views and suggestions relating to this data, please email to:
 Email: Fish-Statistics-Inquiries@fao.org
 
-(c) FAO 2020
+(c) FAO 2021

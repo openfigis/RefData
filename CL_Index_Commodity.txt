@@ -1,0 +1,68 @@
+
+commodity\CL_FI_COMMODITY_CPC_CLASS.csv            Central Product Classification (CPC) class codes
+commodity\CL_FI_COMMODITY_CPC_DIVISION.csv         Central Product Classification (CPC) division codes
+commodity\CL_FI_COMMODITY_CPC_GROUP.csv            Central Product Classification (CPC) group codes
+commodity\CL_FI_COMMODITY_FAOMAJOR_L1.csv          FAO major commodities - Level 1 (top level)
+commodity\CL_FI_COMMODITY_FAOMAJOR_L2.csv          FAO major commodities - Level 2
+commodity\CL_FI_COMMODITY_FAOSTAT_L1.csv           FAOSTAT major commodities - Level 1 (top level)
+commodity\CL_FI_COMMODITY_FAOSTAT_L2.csv           FAOSTAT major commodities - Level 2
+commodity\CL_FI_COMMODITY_FAO_LEVEL1.csv           FAO commodities - Level 1 (top level) 
+commodity\CL_FI_COMMODITY_FAO_LEVEL2.csv           FAO commodities - Level 2
+commodity\CL_FI_COMMODITY_FAO_LEVEL3.csv           FAO commodities - Level 3
+commodity\CL_FI_COMMODITY_ITEM.csv                 Fishery Commoditity items code-list
+commodity\CL_FI_COMMODITY_SITC4_L1.csv             SITC (Standard International Trade Classification v4) - Level 1 (top level) 
+commodity\CL_FI_COMMODITY_SITC4_L2.csv             SITC (Standard International Trade Classification v4) - Level 2
+commodity\CL_FI_COMMODITY_SITC4_L3.csv             SITC (Standard International Trade Classification v4) - Level 3
+commodity\CL_FI_COMMODITY_SITC4_L4.csv             SITC (Standard International Trade Classification v4) - Level 4
+commodity\CL_FI_COMMODITY_YEARBOOK.csv             FAO statistical yearbook commodities group
+commodity\HCL_FI_COMMODITY_CPCCLASS_SPECIES.csv       hierarchy COMMODITY_CPC_CLASS->SPECIES_ITEM
+commodity\HCL_FI_COMMODITY_CPCDIV_CPCGROUP.csv        hierarchy COMMODITY_CPC_DIVISION->COMMODITY_CPC_GROUP
+commodity\HCL_FI_COMMODITY_CPCGROUP_CPCCLASS.csv      hierarchy COMMODITY_CPC_GROUP->COMMODITY_CPC_CLASS
+commodity\HCL_FI_COMMODITY_FAOL1_FAOL2.csv            hierarchy COMMODITY_FAO_LEVEL1->COMMODITY_FAO_LEVEL2
+commodity\HCL_FI_COMMODITY_FAOL2_FAOL3.csv            hierarchy COMMODITY_FAO_LEVEL2->COMMODITY_FAO_LEVEL3
+commodity\HCL_FI_COMMODITY_FAOL3_ITEM.csv             hierarchy COMMODITY_FAO_LEVEL3->COMMODITY_ITEM
+commodity\HCL_FI_COMMODITY_FAOMAJORL1_FAOMAJORL2.csv  hierarchy COMMODITY_FAOMAJOR_L1->COMMODITY_FAOMAJOR_L2
+commodity\HCL_FI_COMMODITY_FAOMAJORL2_ITEM.csv        hierarchy COMMODITY_FAOMAJOR_L2->COMMODITY_ITEM
+commodity\HCL_FI_COMMODITY_FAOSTATL1_FAOSTATL2.csv    hierarchy COMMODITY_FAOSTAT_L1->COMMODITY_FAOSTAT_L2
+commodity\HCL_FI_COMMODITY_FAOSTATL2_ITEM.csv         hierarchy COMMODITY_FAOSTAT_L2->COMMODITY_ITEM
+commodity\HCL_FI_COMMODITY_ITEM_ISSCAAP.csv           hierarchy COMMODITY_ITEM->SPECIES_ISSCAAP_GROUP
+commodity\HCL_FI_COMMODITY_SITC4L1_SITC4L2.csv        hierarchy COMMODITY_SITC4_L1->COMMODITY_SITC4_L2
+commodity\HCL_FI_COMMODITY_SITC4L2_SITC4L3.csv        hierarchy COMMODITY_SITC4_L2->COMMODITY_SITC4_L3
+commodity\HCL_FI_COMMODITY_SITC4L3_SITC4L4.csv        hierarchy COMMODITY_SITC4_L3->COMMODITY_SITC4_L4
+commodity\HCL_FI_COMMODITY_SITC4L4_ITEM.csv           hierarchy COMMODITY_SITC4_L4->COMMODITY_ITEM
+commodity\HCL_FI_COMMODITY_YBK_ITEM.csv               hierarchy COMMODITY_YEARBOOK->COMMODITY_ITEM
+
+HSCommodity/CL_FI_COMMODITY_HS1992_L3.csv
+HSCommodity/CL_FI_COMMODITY_HS1996_L3.csv
+HSCommodity/CL_FI_COMMODITY_HS2002_L3.csv
+HSCommodity/CL_FI_COMMODITY_HS2007_L3.csv
+HSCommodity/CL_FI_COMMODITY_HS2012_L1.csv             HS2012 (Harmonized System v2012) codes - Level 1 (top level)
+HSCommodity/CL_FI_COMMODITY_HS2012_L2.csv             HS2012 (Harmonized System v2012) codes - Level 2
+HSCommodity/CL_FI_COMMODITY_HS2012_L3.csv             HS2012 (Harmonized System v2012) codes - Level 3
+HSCommodity/CL_FI_COMMODITY_HS2017_L1.csv             HS2017 (Harmonized System v2012) codes - Level 1 (top level)
+HSCommodity/CL_FI_COMMODITY_HS2017_L2.csv             HS2017 (Harmonized System v2012) codes - Level 2
+HSCommodity/CL_FI_COMMODITY_HS2017_L3.csv             HS2013 (Harmonized System v2012) codes - Level 3
+HSCommodity/HCL__FI_COMMODITY_HS02L3_ISSCFC.csv
+HSCommodity/HCL__FI_COMMODITY_HS07L3_ISSCFC.csv
+HSCommodity/HCL__FI_COMMODITY_HS12L1_HS12L2.csv       hierarchy COMMODITY_HS2012_L1->COMMODITY_HS2012_L2
+HSCommodity/HCL__FI_COMMODITY_HS12L2_HS12L3.csv       hierarchy COMMODITY_HS2012_L2->COMMODITY_HS2012_L3
+HSCommodity/HCL__FI_COMMODITY_HS12L3_ISSCFC.csv       hierarchy COMMODITY_HS2012_L3->ISSCFC
+HSCommodity/HCL__FI_COMMODITY_HS17L1_HS17L2.csv       hierarchy COMMODITY_HS2017_L1->COMMODITY_HS2017_L2
+HSCommodity/HCL__FI_COMMODITY_HS17L2_HS17L3.csv       hierarchy COMMODITY_HS2017_L2->COMMODITY_HS2017_L3
+HSCommodity/HCL__FI_COMMODITY_HS17L3_ISSCFC.csv       hierarchy COMMODITY_HS2017_L3->ISSCFC
+HSCommodity/HCL__FI_COMMODITY_HS92L3_ISSCFC.csv
+HSCommodity/HCL__FI_COMMODITY_HS96L3_ISSCFC.csv
+
+CN8Commodity/CL_FI_COMMODITY_CN8_2012.csv
+CN8Commodity/CL_FI_COMMODITY_CN8_2013.csv
+CN8Commodity/CL_FI_COMMODITY_CN8_2014.csv
+CN8Commodity/CL_FI_COMMODITY_CN8_2015.csv
+CN8Commodity/CL_FI_COMMODITY_CN8_2017.csv
+CN8Commodity/CL_FI_COMMODITY_CN8_2019.csv			 CN8 (Combined Nomenclature at eight digit level ver 2019)
+CN8Commodity/HCL_FI_COMMODITY_CN82012_ISSCFC.csv
+CN8Commodity/HCL_FI_COMMODITY_CN82013_ISSCFC.csv
+CN8Commodity/HCL_FI_COMMODITY_CN82014_ISSCFC.csv
+CN8Commodity/HCL_FI_COMMODITY_CN82015_ISSCFC.csv
+CN8Commodity/HCL_FI_COMMODITY_CN82017_ISSCFC.csv
+CN8Commodity/HCL_FI_COMMODITY_CN82019_ISSCFC.csv    hierarchy CN82019->ISSCFC
+*
