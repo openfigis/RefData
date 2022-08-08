@@ -12,7 +12,9 @@ code-list file-naming convention:
 CL*.csv         Individual code-lists
 HCL*.csv        Hierarchical code-lists (parent->child grouping)
 CL_*GROUP.csv   A user-friendly summary
-FSJ_*.csv       FishStat defintions
+FSJ_*.csv       FishStat metadata defintions
+DSD_* "Data Structure Definition": describes how information in a specific dataset is structured. It defines the dimensions, measures and their related attributes.
+
 
 FAO code-lists:
 ===============
@@ -87,18 +89,20 @@ waterarea/HCL_FI_WATERAREA_SUBAREA_DIVISION.csv      hierarchy SUBAREA->DIVISION
 waterarea/HCL_FI_WATERAREA_SUBDIVISION_SUBUNIT.csv   hierarchy SUBDIVISION->SUBUNIT
 waterarea/HCL_FI_WATERAREA_SUBOCEAN_MAJOR.csv        hierarchy SUBOCEAN->MAJOR
 
-gear/CL_FI_GEAR_GROUPS.csv        Gear summary
-gear/CL_FI_GEAR_LEVEL1.csv        ISSCFG gear level1 (International Standard Statistical Classification of Fisheries Gears)
-gear/CL_FI_GEAR_LEVEL2.csv        ISSCFG gear level2 (International Standard Statistical Classification of Fisheries Gears)
-gear/HCL_FI_GEARL1_GEARL2.csv     hierarchy ISSCFG gear level1->level2
+gear/CL_CWP_GEAR_GROUPS.csv        Gear summary
+gear/CL_CWP_GEAR_LEVEL1.csv        ISSCFG gear level1 (International Standard Statistical Classification of Fisheries Gears)
+gear/CL_CWP_GEAR_LEVEL2.csv        ISSCFG gear level2 (International Standard Statistical Classification of Fisheries Gears)
+gear/HCL_CWP_GEARL1_GEARL2.csv     hierarchy ISSCFG gear level1->level2
 
-Vesel/CL_FI_VESSEL_CLASS.csv
-Vesel/CL_FI_VESSEL_GRT_LEVEL1.csv
-Vesel/CL_FI_VESSEL_GRT_LEVEL2.csv
-Vesel/CL_FI_VESSEL_LEVEL1.csv
-Vesel/CL_FI_VESSEL_LEVEL2.csv
-Vesel/HCL_FI_VESSELGRTL1_VESSELGRTL2.csv
-Vesel/HCL_FI_VESSELL1_VESSELL2.csv
+Vesel/CL_CWP_VESSEL_GRT_LEVEL1.csv
+Vesel/CL_CWP_VESSEL_GRT_LEVEL2.csv
+Vesel/CL_CWP_VESSEL_LOA_CLASS.csv
+Vesel/CL_CWP_VESSEL_LEVEL1.csv
+Vesel/CL_CWP_VESSEL_LEVEL2.csv
+Vesel/CL_FI_VESSEL_GROUPS.csv
+Vesel/CL_FI_VESSEL_GRT_GROUPS.csv
+Vesel/HCL_CWP_VESSEL_GRTL1_GRTL2.csv
+Vesel/HCL_CWP_VESSEL_TYPE_L1L2.csv
 
 misc/CL_FI_CURRENCY.csv                   Currencies used by FAO
 misc/CL_FI_DISPOSITION.csv                Disposition element
@@ -124,8 +128,15 @@ FishStat/FSJ_DATASET_DCAT.csv    FishStat dataset catalog (work in progress)
 FishStat/FSJ_DIMENSION.csv       FishStat dimension
 FishStat/FSJ_MEASURE.csv         FishStat measure
 FishStat/FSJ_PERIOD.csv          FishStat period
+FishStat/FSJ_QUERY_MEASURE.csv   FishStat measure for query panel
 FishStat/FSJ_RELATION.csv        FishStat relation
+FishStat/FSJ_SDMX_DIMENSION.csv  SDMX export: dimensions
+FishStat/FSJ_SDMX_FRAGMENT.csv   SDMX export: code-list fragments
 FishStat/FSJ_TIMSERIES.csv       FishStat time-series
 FishStat/FSJ_UNIT.csv            FishStat unit
 FishStat/FSJ_WORKSPACE.csv       FishStat workspace
+FishStat/HCL_FSJ_DATASET_CONCEPT.csv    hierarchy dataset->concept
+FishStat/HCL_FSJ_DATASET_DCAT.csv       hierarchy DCAT
+FishStat/HCL_FSJ_DATASET_RELATION.csv   hierarchy dataset->relation
+FishStat/HCL_FSJ_WORKSPACE_DATASET.csv  hierarchy workspace->dataset
 *
