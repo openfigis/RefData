@@ -1,0 +1,4 @@
+"Code","Description_En","Description_Es","Description_Fr","Identifier","Name_En","Name_Es","Name_Fr"
+"MEASURE","Tipo de medida observada (cantidad, valor, etc.)","Observed measurement type (quantity, value, etc.)","Type de mesure observée (quantité, valeur, etc.)","1","Measure","Medida","Mesure"
+"UNIT","Unidad de medida observada (t, kg, USD, etc.)","Observed measurement unit (t, kg, USD, etc.)","Unité de mesure observée (t, kg, USD, etc.)","2","Unit","Unidad","Unité"
+"UNIT_MULTIPLIER","Exponent in base 10","Exponente en base 10","Exposant en base 10","3","Unit multiplier","Multiplicador de unidad","Multiplicateur de l'unité"
