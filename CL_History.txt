@@ -12,6 +12,7 @@ FAO code-list history:
 2021.1.0  14-Jun-2021  updated codelists
 2021.1.0  29-Sep-2021  added new trade DSD, added reginal DSD
 2022.1.0  08-Aug-2022  renamed CWP code-lists for publishing in CKAN; changes to FishStat
+2023.1.0  24-Nov-2023  updated codelists
 
 FAO time-series history:
 2017.1.0  13-Mar-2017  release of 2017 data
@@ -27,4 +28,6 @@ FAO time-series history:
 2022.1.0  29-Mar-2022  release of Aquaculture/Capture/GlobalProuction
 2022.1.1  08-Aug-2022  updated Aquaculture/Capture: updated country notes only
 2022.1.0  08-Aug-2022  release of Regional data
+2022.1.0  10-Aug-2022  release of Trade data
+2023.1.1  20-Apr-2023  release of Aquaculture/Capture/GlobalProuction
 *

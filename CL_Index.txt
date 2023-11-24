@@ -116,9 +116,11 @@ misc/CL_FI_PRODUCTION_SOURCE_DET.csv      Global Production: detailed source
 misc/CL_FI_SYMBOL.csv                     FAO Statistical Symbols (FishStat Flags)
 misc/CL_FI_SYMBOL_FIGIS.csv               Obsolete: FAO FIGIS Statistical Symbols (Flags)
 misc/CL_FI_TRADEFLOW.csv                  Commodity: trade flow
+misc/CL_FI_TRADEFLOW_AGG.csv              Commodity: trade flow aggregated
 misc/CL_FI_TRADEFLOW_DET.csv              Commodity: detailed trade flow
 misc/CL_FI_WORK_AREA.csv                  work area
 misc/HCL_FI_PRODSOURCE_PRODSOURCEDET.csv  hierarchy PRODUCTION_SOURCE->PRODUCTION_SOURCE_DET
+misc/HCL_FI_TRADEFLOWAGG_TRADEFLOW.csv    hierarchy TRADEFLOW_AGG->TRADEFLOW
 
 FishStat/FSJ_ATTRIBUTE.csv       FishStat attributes
 FishStat/FSJ_BUILTIN.csv         FishStat built-in MEASURE, UNIT, MULTIPLIER

@@ -1,7 +1,7 @@
 "Code","Description_En","Description_Es","Description_Fr","Identifier","Multiplier","Name_En","Name_Es","Name_Fr","SWS_Unit","Short_Name","Unit"
 "Q_t_1","Observed measure unit (Tonnes)","Unidad de la medida observada (Toneladas)","Unité de la mesure observée (Tonnes)","1","1","Tonnes","Toneladas","Tonnes","FI_001","Tonnes","t"
 "V_USD_1000","Observed measure unit (USD 1 000)","Unidad de la medida observada (USD 1 000)","Unité de la mesure observée (USD 1 000)","2","1000","Value (USD 1000)","Valor (1000 USD)","Valeur (1000 USD)","FI_003","USD (1000)","USD"
-"Q_no_1","Observed measure unit (Tonnes - live weight; number)","Unidad de la medida observada (Toneladas - peso vivo; número)","Unité de la mesure observée (Tonnes - poids vif; nombre)","3","1","Number","Número","Nombre","FI_002","Number","no"
+"Q_no_1","Observed measure unit (number)","Unidad de la medida observada (número)","Unité de la mesure observée (nombre)","3","1","Number","Número","Nombre","FI_002","Number","no"
 "E_h_1","","","","4","1","Effort (hours)","Esfuerzo (horas)","Effort (heures)","","Effort (hrs)","h"
 "Q_kg_1","","","","5","1","Quantity (kilograms)","Cantidad (kilogramos)","Quantité (kilogrammes)","","Quantity (kg)","kg"
 "L_m_1","","","","6","1","Length (meters)","Eslora (metros)","Longeur (mètres)","","Length (m)","m"
