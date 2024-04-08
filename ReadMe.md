@@ -21,8 +21,8 @@ To open these files in Excel, go to the menu
 Data->From Text and select File origin "65001: Unicode UTF-8" and comma delimiter
 
 When using time-series data, in order to obtain the aggregates presented in the 
-Summary Tables of the "FAO Yearbook of Fishery Statistics - Aquaculture Production" which exclude production figures 
-for aquatic plants, pearls and mother-of-pearl, data should be filtered using a Custom Group:
+summary tables of the "FAO Yearbook of Fishery and Aquaculture Statistics" which exclude production figures 
+for aquatic plants, crocodiles, aq. mammals, pearls and mother-of-pearl, corals and sponges data should be filtered using a Custom Group:
 "Fish, crustaceans and molluscs, etc."(1801).
 
 Please note that the list of species disseminated here, reflects the ASFIS standarad compatible with the data being published.
@@ -57,4 +57,4 @@ The designations employed and the presentation of material in the map(s) do not 
 For comments, views and suggestions relating to this data, please email to:
 Email: Fish-Statistics-Inquiries@fao.org
 
-(c) FAO 2022
+(c) FAO 2024

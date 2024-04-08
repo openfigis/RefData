@@ -94,15 +94,15 @@ gear/CL_CWP_GEAR_LEVEL1.csv        ISSCFG gear level1 (International Standard St
 gear/CL_CWP_GEAR_LEVEL2.csv        ISSCFG gear level2 (International Standard Statistical Classification of Fisheries Gears)
 gear/HCL_CWP_GEARL1_GEARL2.csv     hierarchy ISSCFG gear level1->level2
 
-Vesel/CL_CWP_VESSEL_GRT_LEVEL1.csv
-Vesel/CL_CWP_VESSEL_GRT_LEVEL2.csv
-Vesel/CL_CWP_VESSEL_LOA_CLASS.csv
-Vesel/CL_CWP_VESSEL_LEVEL1.csv
-Vesel/CL_CWP_VESSEL_LEVEL2.csv
-Vesel/CL_FI_VESSEL_GROUPS.csv
-Vesel/CL_FI_VESSEL_GRT_GROUPS.csv
-Vesel/HCL_CWP_VESSEL_GRTL1_GRTL2.csv
-Vesel/HCL_CWP_VESSEL_TYPE_L1L2.csv
+Vessel/CL_CWP_VESSEL_GRT_LEVEL1.csv
+Vessel/CL_CWP_VESSEL_GRT_LEVEL2.csv
+Vessel/CL_CWP_VESSEL_LOA_CLASS.csv
+Vessel/CL_CWP_VESSEL_LEVEL1.csv
+Vessel/CL_CWP_VESSEL_LEVEL2.csv
+Vessel/CL_FI_VESSEL_GROUPS.csv
+Vessel/CL_FI_VESSEL_GRT_GROUPS.csv
+Vessel/HCL_CWP_VESSEL_GRTL1_GRTL2.csv
+Vessel/HCL_CWP_VESSEL_TYPE_L1L2.csv
 
 misc/CL_FI_CURRENCY.csv                   Currencies used by FAO
 misc/CL_FI_DISPOSITION.csv                Disposition element
@@ -113,14 +113,13 @@ misc/CL_FI_PPRODUCTION_ELEMENT.csv        Commodity: Processed Production elemen
 misc/CL_FI_PRODENVIRONMENT.csv            Commodity: Processed Production environment
 misc/CL_FI_PRODUCTION_SOURCE.csv          Global Production: source
 misc/CL_FI_PRODUCTION_SOURCE_DET.csv      Global Production: detailed source
-misc/CL_FI_SYMBOL.csv                     FAO Statistical Symbols (FishStat Flags)
+misc/CL_FI_SYMBOL.csv                     Obsolete: FAO Statistical Symbols (Old FishStat Flags)
 misc/CL_FI_SYMBOL_FIGIS.csv               Obsolete: FAO FIGIS Statistical Symbols (Flags)
+misc/CL_FI_SYMBOL_SDMX.csv                FAO SDMX Statistical Symbols ((FishStat Flags)
 misc/CL_FI_TRADEFLOW.csv                  Commodity: trade flow
-misc/CL_FI_TRADEFLOW_AGG.csv              Commodity: trade flow aggregated
 misc/CL_FI_TRADEFLOW_DET.csv              Commodity: detailed trade flow
 misc/CL_FI_WORK_AREA.csv                  work area
 misc/HCL_FI_PRODSOURCE_PRODSOURCEDET.csv  hierarchy PRODUCTION_SOURCE->PRODUCTION_SOURCE_DET
-misc/HCL_FI_TRADEFLOWAGG_TRADEFLOW.csv    hierarchy TRADEFLOW_AGG->TRADEFLOW
 
 FishStat/FSJ_ATTRIBUTE.csv       FishStat attributes
 FishStat/FSJ_BUILTIN.csv         FishStat built-in MEASURE, UNIT, MULTIPLIER
