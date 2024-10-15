@@ -39,9 +39,12 @@ HSCommodity/CL_FI_COMMODITY_HS2007_L3.csv
 HSCommodity/CL_FI_COMMODITY_HS2012_L1.csv             HS2012 (Harmonized System v2012) codes - Level 1 (top level)
 HSCommodity/CL_FI_COMMODITY_HS2012_L2.csv             HS2012 (Harmonized System v2012) codes - Level 2
 HSCommodity/CL_FI_COMMODITY_HS2012_L3.csv             HS2012 (Harmonized System v2012) codes - Level 3
-HSCommodity/CL_FI_COMMODITY_HS2017_L1.csv             HS2017 (Harmonized System v2012) codes - Level 1 (top level)
-HSCommodity/CL_FI_COMMODITY_HS2017_L2.csv             HS2017 (Harmonized System v2012) codes - Level 2
-HSCommodity/CL_FI_COMMODITY_HS2017_L3.csv             HS2013 (Harmonized System v2012) codes - Level 3
+HSCommodity/CL_FI_COMMODITY_HS2017_L1.csv             HS2017 (Harmonized System v2017) codes - Level 1 (top level)
+HSCommodity/CL_FI_COMMODITY_HS2017_L2.csv             HS2017 (Harmonized System v2017) codes - Level 2
+HSCommodity/CL_FI_COMMODITY_HS2017_L3.csv             HS2017 (Harmonized System v2017) codes - Level 3
+HSCommodity/CL_FI_COMMODITY_HS2022_L1.csv             HS2022 (Harmonized System v2022) codes - Level 1 (top level)
+HSCommodity/CL_FI_COMMODITY_HS2022_L2.csv             HS2022 (Harmonized System v2022) codes - Level 2
+HSCommodity/CL_FI_COMMODITY_HS2022_L3.csv             HS2022 (Harmonized System v2022) codes - Level 3
 HSCommodity/HCL__FI_COMMODITY_HS02L3_ISSCFC.csv
 HSCommodity/HCL__FI_COMMODITY_HS07L3_ISSCFC.csv
 HSCommodity/HCL__FI_COMMODITY_HS12L1_HS12L2.csv       hierarchy COMMODITY_HS2012_L1->COMMODITY_HS2012_L2
@@ -50,6 +53,9 @@ HSCommodity/HCL__FI_COMMODITY_HS12L3_ISSCFC.csv       hierarchy COMMODITY_HS2012
 HSCommodity/HCL__FI_COMMODITY_HS17L1_HS17L2.csv       hierarchy COMMODITY_HS2017_L1->COMMODITY_HS2017_L2
 HSCommodity/HCL__FI_COMMODITY_HS17L2_HS17L3.csv       hierarchy COMMODITY_HS2017_L2->COMMODITY_HS2017_L3
 HSCommodity/HCL__FI_COMMODITY_HS17L3_ISSCFC.csv       hierarchy COMMODITY_HS2017_L3->ISSCFC
+HSCommodity/HCL__FI_COMMODITY_HS22L1_HS22L2.csv       hierarchy COMMODITY_HS2022_L1->COMMODITY_HS2022_L2
+HSCommodity/HCL__FI_COMMODITY_HS22L2_HS22L3.csv       hierarchy COMMODITY_HS2022_L2->COMMODITY_HS2022_L3
+HSCommodity/HCL__FI_COMMODITY_HS22L3_ISSCFC.csv       hierarchy COMMODITY_HS2022_L3->ISSCFC
 HSCommodity/HCL__FI_COMMODITY_HS92L3_ISSCFC.csv
 HSCommodity/HCL__FI_COMMODITY_HS96L3_ISSCFC.csv
 
@@ -60,11 +66,13 @@ CN8Commodity/CL_FI_COMMODITY_CN8_2015.csv
 CN8Commodity/CL_FI_COMMODITY_CN8_2017.csv
 CN8Commodity/CL_FI_COMMODITY_CN8_2019.csv			 CN8 (Combined Nomenclature at eight digit level ver 2019)
 CN8Commodity/CL_FI_COMMODITY_CN8_2021.csv			 CN8 (Combined Nomenclature at eight digit level ver 2021)
+CN8Commodity/CL_FI_COMMODITY_CN8_2022.csv			 CN8 (Combined Nomenclature at eight digit level ver 2022)
 CN8Commodity/HCL_FI_COMMODITY_CN82012_ISSCFC.csv
 CN8Commodity/HCL_FI_COMMODITY_CN82013_ISSCFC.csv
 CN8Commodity/HCL_FI_COMMODITY_CN82014_ISSCFC.csv
 CN8Commodity/HCL_FI_COMMODITY_CN82015_ISSCFC.csv
 CN8Commodity/HCL_FI_COMMODITY_CN82017_ISSCFC.csv
 CN8Commodity/HCL_FI_COMMODITY_CN82019_ISSCFC.csv    hierarchy CN82019->ISSCFC
-CN8Commodity/HCL_FI_COMMODITY_CN82021_ISSCFC.csv    hierarchy CN82019->ISSCFC
+CN8Commodity/HCL_FI_COMMODITY_CN82021_ISSCFC.csv    hierarchy CN82021->ISSCFC
+CN8Commodity/HCL_FI_COMMODITY_CN82022_ISSCFC.csv    hierarchy CN82022->ISSCFC
 *
