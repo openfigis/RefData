@@ -23,31 +23,25 @@ commodity/CL_FI_COMMODITY_ISSCFC.csv                  ISSCFC (International Stan
 country/CL_FI_COUNTRY_CONTINENT.csv                   Continents
 country/CL_FI_COUNTRY_ECOCLASS.csv                    Economic Classes
 country/CL_FI_COUNTRY_ECOGROUP.csv                    Economic Groups 
-country/CL_FI_COUNTRY_ECOREGION.csv                   Economic Regions 
-country/CL_FI_COUNTRY_ECOUNION.csv                    Economic Unions 
 country/CL_FI_COUNTRY_FAO.csv                         FAO offices
-country/CL_FI_COUNTRY_FORMERAREA.csv                  Former countries
 country/CL_FI_COUNTRY_GEOREGION.csv                   Geographic Regions
 country/CL_FI_COUNTRY_GROUPS.csv                      Country summary
-country/CL_FI_COUNTRY_ITEM.csv                        Country items
+country/CL_FI_COUNTRY_M49.csv                         Country items
 country/CL_FI_COUNTRY_OTHER.csv                       Other (country related) groups
 country/CL_FI_COUNTRY_SDGREGION.csv                   SDG (Sustainable Development Goals) Subregions 
 country/CL_FI_COUNTRY_SDGSUBREGION.csv                SDG (Sustainable Development Goals) Subcontinents
 country/CL_FI_COUNTRY_SUBCONTINENT.csv                Sub-Continent groups
 country/CL_FI_RFB.csv                                 Regional Fishery Bodies (RFB)
 country/HCL_FI_COUNTRY_CONTINENT_GEOREGION.csv        hierarchy COUNTRY_CONTINENT->COUNTRY_GEOREGION
-country/HCL_FI_COUNTRY_ECOCLASS_COUNTRY.csv           hierarchy COUNTRY_ECOCLASS->COUNTRY_ITEM
-country/HCL_FI_COUNTRY_ECOGROUP_COUNTRY.csv           hierarchy COUNTRY_ECOGROUP->COUNTRY_ITEM
-country/HCL_FI_COUNTRY_ECOREGION_COUNTRY.csv          hierarchy COUNTRY_ECOREGION->COUNTRY_ITEM
-country/HCL_FI_COUNTRY_ECOUNION_COUNTRY.csv           hierarchy COUNTRY_ECOUNION->COUNTRY_ITEM
-country/HCL_FI_COUNTRY_FAO_COUNTRY.csv                hierarchy COUNTRY_FAO->COUNTRY_ITEM
-country/HCL_FI_COUNTRY_FORMER_COUNTRY.csv             hierarchy COUNTRY_FORMERAREA->COUNTRY_ITEM
-country/HCL_FI_COUNTRY_GEOREGION_COUNTRY.csv          hierarchy COUNTRY_GEOREGION->COUNTRY_ITEM
-country/HCL_FI_COUNTRY_OTHER_COUNTRY.csv              hierarchy COUNTRY_OTHER->COUNTRY_ITEM
+country/HCL_FI_COUNTRY_ECOCLASS_COUNTRY.csv           hierarchy COUNTRY_ECOCLASS->COUNTRY_M49
+country/HCL_FI_COUNTRY_ECOGROUP_COUNTRY.csv           hierarchy COUNTRY_ECOGROUP->COUNTRY_M49
+country/HCL_FI_COUNTRY_FAO_COUNTRY.csv                hierarchy COUNTRY_FAO->COUNTRY_M49
+country/HCL_FI_COUNTRY_GEOREGION_COUNTRY.csv          hierarchy COUNTRY_GEOREGION->COUNTRY_M49
+country/HCL_FI_COUNTRY_OTHER_COUNTRY.csv              hierarchy COUNTRY_OTHER->COUNTRY_M49
 country/HCL_FI_COUNTRY_SDGREGION_SDGSUBREGION.csv     hierarchy COUNTRY_SDGREGION->COUNTRY_SDGSUBREGION
-country/HCL_FI_COUNTRY_SDGSUBREGION_COUNTRY.csv       hierarchy COUNTRY_SDGSUBREGION->COUNTRY_ITEM
-country/HCL_FI_COUNTRY_SUBCONTINENT_COUNTRY.csv       hierarchy COUNTRY_SUBCONTINENT->COUNTRY_ITEM      
-country/HCL_FI_RFB_RFB_COUNTRY.csv                    hierarchy CL_FI_RFB->CL_FI_COUNTRY_ITEM
+country/HCL_FI_COUNTRY_SDGSUBREGION_COUNTRY.csv       hierarchy COUNTRY_SDGSUBREGION->COUNTRY_M49
+country/HCL_FI_COUNTRY_SUBCONTINENT_COUNTRY.csv       hierarchy COUNTRY_SUBCONTINENT->COUNTRY_M49      
+country/HCL_FI_RFB_RFB_COUNTRY.csv                    hierarchy CL_FI_RFB->CL_FI_COUNTRY_M49
 
 species/CL_FI_SPECIES_FAMILY.csv                   ASFIS (taxonomic) families
 species/CL_FI_SPECIES_FAOSTAT.csv                  FAOSTAT species groups
@@ -110,7 +104,7 @@ misc/CL_FI_FBS_ELEMENT.csv                FBS (Food Balance Sheet) element
 misc/CL_FI_GENDER.csv                     Gender
 misc/CL_FI_OCCUPATION.csv                 Occupation
 misc/CL_FI_PPRODUCTION_ELEMENT.csv        Commodity: Processed Production element
-misc/CL_FI_PRODENVIRONMENT.csv            Commodity: Processed Production environment
+misc/CL_FI_PRODENVIRONMENT.csv            Aquaculture: Production environment
 misc/CL_FI_PRODUCTION_SOURCE.csv          Global Production: source
 misc/CL_FI_PRODUCTION_SOURCE_DET.csv      Global Production: detailed source
 misc/CL_FI_SYMBOL.csv                     Obsolete: FAO Statistical Symbols (Old FishStat Flags)
