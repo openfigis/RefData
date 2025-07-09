@@ -37,3 +37,5 @@ FAO time-series history:
 2024.1.1  04-Jul-2024  release of Regional data
 2024.1.0  30-Jul-2024  release of Trade data and Processed Production 1976-2022
 2025.1.0  28-Mar-2025  release of Aquaculture/Capture/GlobalProduction 1950-2023
+2025.1.0  01-Jul-2025  release of Regional data
+2025.1.0  09-Jul-2025  release of Trade data 1976-2023
