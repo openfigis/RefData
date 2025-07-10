@@ -1,4 +1,4 @@
-"ISSCAAP_group","Taxonomic_code","Alpha3_code","Scientific_name","English_name","French_name","Spanish_name","Arabic_name","Chinese_name","Russian_name","Author","Family","Order or higher taxa","FishStat_data"
+"ISSCAAP_GROUP","TAXONOMIC_CODE","ALPHA_3_CODE","SCIENTIFIC_NAME","NAME_EN","NAME_FR","NAME_ES","NAME_AR","NAME_ZH","NAME_RU","AUTHOR","FAMILY","ORDER_OR_HIGHER_TAXA","HAS_FISHSTAT_DATA"
 "11","140001101001","GXM","Gyrinocheilus aymonieri","Siamese algae-eater",,,,,,"(Tirant 1883)","GYRINOCHEILIDAE","CYPRINIFORMES","NO"
 "11","140002101001","CDO","Carpiodes carpio","River carpsucker",,,,,,"(Rafinesque 1820)","CATOSTOMIDAE","CYPRINIFORMES","YES"
 "11","140002101002","FMP","Carpiodes cyprinus","Quillback",,,,,,"(Lesueur 1817)","CATOSTOMIDAE","CYPRINIFORMES","NO"
