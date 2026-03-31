@@ -15,6 +15,7 @@ FAO code-list history:
 2023.1.1  19-Apr-2023  updated codelists
 2024.1.0  29-Mar-2024  updated codelists
 2025.1.0  27-Mar-2025  updated codelists
+2026.1.0  30-Mar-2026  updated codelists
 
 FAO time-series history:
 2017.1.0  13-Mar-2017  release of 2017 data
@@ -39,3 +40,4 @@ FAO time-series history:
 2025.1.0  28-Mar-2025  release of Aquaculture/Capture/GlobalProduction 1950-2023
 2025.1.0  01-Jul-2025  release of Regional data
 2025.1.0  09-Jul-2025  release of Trade data 1976-2023
+2026.1.0  30-Mar-2026  release of Aquaculture/Capture/GlobalProduction 1950-2024
